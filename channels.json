@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T01:25:44.299911+00:00",
+  "generated_at": "2026-10-14T01:38:08.979814+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
       "id": "ChannelBox.THV11News",
       "name": "THV11 Arkansas News",
-      "group": "Arkansas",
+      "group": "Local / Mid-South",
       "url": "https://video.tegnaone.com/kthv/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV-Production/live/index.m3u8",
       "number": "2166"
     },
     {
       "id": "ChannelBox.KFSMNews",
       "name": "5NEWS Arkansas",
-      "group": "Arkansas",
+      "group": "Local / Mid-South",
       "url": "https://video.tegnaone.com/kfsm/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFSM-Production/live/index.m3u8",
       "number": "2165"
     },
@@ -25,6 +25,13 @@
       "referrer": "",
       "url": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8",
       "number": "1546"
+    },
+    {
+      "id": "ChannelBox.WATNNews",
+      "name": "ABC24 Memphis News",
+      "group": "Local / Mid-South",
+      "url": "https://video.tegnaone.com/watn/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WATN-Production/live/index.m3u8",
+      "number": "2167"
     },
     {
       "id": "AnimationPlus.us@SD",
