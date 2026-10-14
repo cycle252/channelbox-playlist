@@ -1,8 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T22:25:24.950200+00:00",
+  "generated_at": "2026-10-14T01:25:44.299911+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
+    {
+      "id": "ChannelBox.THV11News",
+      "name": "THV11 Arkansas News",
+      "group": "Arkansas",
+      "url": "https://video.tegnaone.com/kthv/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KTHV-Production/live/index.m3u8",
+      "number": "2166"
+    },
+    {
+      "id": "ChannelBox.KFSMNews",
+      "name": "5NEWS Arkansas",
+      "group": "Arkansas",
+      "url": "https://video.tegnaone.com/kfsm/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFSM-Production/live/index.m3u8",
+      "number": "2165"
+    },
+    {
+      "id": "KVTNDT251.us@HD",
+      "name": "KVTN-DT 25.1 (720p)",
+      "group": "Religious",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8",
+      "number": "1546"
+    },
     {
       "id": "AnimationPlus.us@SD",
       "name": "Animation+ (1080p) [Geo-blocked]",
@@ -4799,15 +4822,6 @@
       "referrer": "",
       "url": "https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8",
       "number": "1545"
-    },
-    {
-      "id": "KVTNDT251.us@HD",
-      "name": "KVTN-DT 25.1 (720p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8",
-      "number": "1546"
     },
     {
       "id": "LA36.us@SD",
