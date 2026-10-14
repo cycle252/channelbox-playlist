@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T09:17:41.256179+00:00",
+  "generated_at": "2026-10-14T20:26:43.663771+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -572,6 +572,15 @@
       "referrer": "",
       "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
       "number": "186"
+    },
+    {
+      "id": "GritXtra.us@SD",
+      "name": "Grit Xtra (1080p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8",
+      "number": "187"
     },
     {
       "id": "Heartland.us@Eastern",
