@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T09:21:14.336835+00:00",
+  "generated_at": "2026-10-16T09:18:02.698983+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -4047,7 +4047,7 @@
     },
     {
       "id": "DiscoveryTurbo.us@SD",
-      "name": "Discovery Turbo (720p)",
+      "name": "Discovery Turbo (United States) (720p)",
       "group": "Auto",
       "user_agent": "",
       "referrer": "",
@@ -4539,15 +4539,6 @@
       "referrer": "",
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
       "number": "1406"
-    },
-    {
-      "id": "Fox.us@WSVN",
-      "name": "Fox (United States) WSVN (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/Fox/index.m3u8",
-      "number": "1407"
     },
     {
       "id": "Fox.us@WTTG",
@@ -5747,15 +5738,6 @@
       "number": "1594"
     },
     {
-      "id": "MagnoliaNetwork.us@East",
-      "name": "Magnolia Network (720p)",
-      "group": "Lifestyle",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8",
-      "number": "1596"
-    },
-    {
       "id": "MajestadTV.us@SD",
       "name": "Majestad TV (480p) [Not 24/7]",
       "group": "Religious",
@@ -6366,15 +6348,6 @@
       "referrer": "",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8",
       "number": "1686"
-    },
-    {
-      "id": "NBC.us@WTLV",
-      "name": "NBC WTLV (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/NBC/index.m3u8",
-      "number": "1688"
     },
     {
       "id": "NBC.us@WTMJTV",
@@ -7277,15 +7250,6 @@
       "number": "1845"
     },
     {
-      "id": "RTN.us@SD",
-      "name": "RTN (United States)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://4.59.210.197:8815/udp/127.0.0.1:6002",
-      "number": "1850"
-    },
-    {
       "id": "RTNChicago.us@SD",
       "name": "RTN Chicago (480p)",
       "group": "Religious",
@@ -8004,15 +7968,6 @@
       "referrer": "",
       "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI",
       "number": "1950"
-    },
-    {
-      "id": "TeleXitos.us@SD",
-      "name": "TeleXitos (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/TELEXITOS/index.m3u8",
-      "number": "1954"
     },
     {
       "id": "Tempe11.us@SD",
@@ -8744,15 +8699,6 @@
       "number": "2064"
     },
     {
-      "id": "UniMas.us@Central",
-      "name": "UniMas Central (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/Unimas/mono.m3u8",
-      "number": "2065"
-    },
-    {
       "id": "UniMas.us@KUVNDT",
       "name": "UniMas KUVN-DT",
       "group": "Undefined",
@@ -8769,15 +8715,6 @@
       "referrer": "",
       "url": "http://168.228.44.241:9997/play/a09e/index.m3u8",
       "number": "2067"
-    },
-    {
-      "id": "UniMas.us@WAMIDT",
-      "name": "UniMas WAMI-DT (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/Unimas/index.m3u8",
-      "number": "2068"
     },
     {
       "id": "UniMas.us@WFUTDT",
@@ -8798,15 +8735,6 @@
       "number": "2070"
     },
     {
-      "id": "UniversalCinema.us@SD",
-      "name": "Universal Cinema (1080p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://45.167.1.138:8000/play/a06m",
-      "number": "2071"
-    },
-    {
       "id": "UniversalComedy.us@SD",
       "name": " like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
       "group": "Comedy;Movies;Series",
@@ -8823,15 +8751,6 @@
       "referrer": "",
       "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
       "number": "2073"
-    },
-    {
-      "id": "Univision.us@East",
-      "name": "Univision (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/Univision/index.m3u8",
-      "number": "2074"
     },
     {
       "id": "Univision.us@KMEXDT",
@@ -8868,15 +8787,6 @@
       "referrer": "",
       "url": "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8",
       "number": "2081"
-    },
-    {
-      "id": "USANetwork.us@East",
-      "name": "USA Network (720p)",
-      "group": "Comedy;Movies;Series;Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
-      "number": "2082"
     },
     {
       "id": "VBSTV.us@SD",
