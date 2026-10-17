@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T09:18:02.698983+00:00",
+  "generated_at": "2026-10-17T09:19:15.476400+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -3227,15 +3227,6 @@
       "number": "1217"
     },
     {
-      "id": "CCX1.us@SD",
-      "name": "CCX1 (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8",
-      "number": "1218"
-    },
-    {
       "id": "CelebrityNameGame.us@SD",
       "name": "Celebrity Name Game (1080p) [Geo-blocked]",
       "group": "Series",
@@ -4010,15 +4001,6 @@
       "number": "1325"
     },
     {
-      "id": "DetroitChannel21.us@SD",
-      "name": "Detroit Channel 21",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8",
-      "number": "1327"
-    },
-    {
       "id": "DetroitChannel22.us@SD",
       "name": "Detroit Channel 22",
       "group": "Education",
@@ -4254,11 +4236,11 @@
     },
     {
       "id": "ESPN.us@SD",
-      "name": "ESPN (United States) (720p)",
+      "name": "ESPN (United States) (432p)",
       "group": "Sports",
       "user_agent": "",
       "referrer": "",
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
       "number": "1359"
     },
     {
@@ -6710,15 +6692,6 @@
       "number": "1742"
     },
     {
-      "id": "PascoTV.us@SD",
-      "name": "Pasco TV (480p)",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
-      "number": "1743"
-    },
-    {
       "id": "PayameAfghanTV.us@SD",
       "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
       "group": "General",
@@ -6870,15 +6843,6 @@
       "referrer": "",
       "url": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "number": "1767"
-    },
-    {
-      "id": "PCTChannel27.us@SD",
-      "name": "PCT Channel 27 (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-      "number": "1768"
     },
     {
       "id": "PCTV26.us@SD",
@@ -9273,15 +9237,6 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
       "number": "2156"
-    },
-    {
-      "id": "YouDotGov.us@SD",
-      "name": "YouDotGov",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8",
-      "number": "2158"
     },
     {
       "id": "YuGiOhenespanol.us@SD",
