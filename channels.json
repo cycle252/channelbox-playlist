@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T09:19:15.476400+00:00",
+  "generated_at": "2026-10-18T09:20:17.439052+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -4062,15 +4062,6 @@
       "referrer": "",
       "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
       "number": "1335"
-    },
-    {
-      "id": "DiyaTV.us@SD",
-      "name": "Diya TV (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://stream.diyatvinc.com/diya.m3u8",
-      "number": "1336"
     },
     {
       "id": "DKN.us@SD",
