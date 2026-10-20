@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T09:16:54.523445+00:00",
+  "generated_at": "2026-10-20T09:18:36.658101+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -2957,15 +2957,6 @@
       "number": "1182"
     },
     {
-      "id": "BXInspire.us@SD",
-      "name": "BX Inspire (720p)",
-      "group": "General;Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8",
-      "number": "1183"
-    },
-    {
       "id": "BXOmni.us@SD",
       "name": "BX Omni (720p)",
       "group": "General",
@@ -3558,15 +3549,6 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8",
       "number": "1263"
-    },
-    {
-      "id": "CNBC.us@SD",
-      "name": "CNBC (720p) [Geo-blocked]",
-      "group": "Business",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://41.205.93.154/CNBC/index.m3u8",
-      "number": "1264"
     },
     {
       "id": "CNN.us@SD",
