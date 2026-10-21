@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:18:36.658101+00:00",
+  "generated_at": "2026-10-21T09:25:32.761637+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -59,6 +59,24 @@
       "number": "1"
     },
     {
+      "id": "AnimexHIDIVE.us@SD",
+      "name": "Anime x HIDIVE",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
+      "number": "2"
+    },
+    {
+      "id": "Crunchyroll.us@SD",
+      "name": "Crunchyroll (720p)",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
+      "number": "4"
+    },
+    {
       "id": "Naruto.us@US",
       "name": "Naruto (1080p)",
       "group": "Animation",
@@ -68,6 +86,24 @@
       "number": "6"
     },
     {
+      "id": "Narutoenespanol.us@SD",
+      "name": "Naruto en espanol",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
+      "number": "7"
+    },
+    {
+      "id": "OnePiece.us@US",
+      "name": "One Piece",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8",
+      "number": "8"
+    },
+    {
       "id": "Placid.us@EastHD",
       "name": "Placid (1080p) [Not 24/7]",
       "group": "Animation",
@@ -75,6 +111,24 @@
       "referrer": "",
       "url": "https://toy.vcdn.fyi/placid/index.m3u8",
       "number": "9"
+    },
+    {
+      "id": "PlutoTVAnime.us@US",
+      "name": "Pluto TV Anime",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5812b7d3249444e05d09cc49.m3u8",
+      "number": "10"
+    },
+    {
+      "id": "PlutoTVAnimeMovies.us@SD",
+      "name": "Pluto TV Anime Movies",
+      "group": "Animation",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8",
+      "number": "11"
     },
     {
       "id": "SonicTV.us@SD",
@@ -131,6 +185,42 @@
       "number": "17"
     },
     {
+      "id": "70sCinema.us@SD",
+      "name": "70s Cinema",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8",
+      "number": "18"
+    },
+    {
+      "id": "80sRewind.us@SD",
+      "name": "80s Rewind",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8",
+      "number": "19"
+    },
+    {
+      "id": "90sThrowback.us@SD",
+      "name": "90s Throwback",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8",
+      "number": "20"
+    },
+    {
+      "id": "AdrenalinaPuraTV.us@SD",
+      "name": "Adrenalina Pura TV (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
+      "number": "21"
+    },
+    {
       "id": "AMC.us@EastHD",
       "name": "AMC (United States) (720p)",
       "group": "Movies",
@@ -149,6 +239,33 @@
       "number": "24"
     },
     {
+      "id": "BETCinema.us@SD",
+      "name": "BET Cinema",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8",
+      "number": "26"
+    },
+    {
+      "id": "BETComedyMovies.us@SD",
+      "name": "BET Comedy Movies",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
+      "number": "27"
+    },
+    {
+      "id": "BETVisionaries.us@SD",
+      "name": "BET Visionaries",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
+      "number": "28"
+    },
+    {
       "id": "Charge.us@SD",
       "name": "Charge! (1080p)",
       "group": "Movies",
@@ -156,6 +273,42 @@
       "referrer": "",
       "url": "https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8",
       "number": "29"
+    },
+    {
+      "id": "CineAdrenalina.us@SD",
+      "name": "Cine Adrenalina",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+      "number": "30"
+    },
+    {
+      "id": "CineAmor.us@SD",
+      "name": "Cine Amor",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8",
+      "number": "31"
+    },
+    {
+      "id": "PlutoTVCineComedia.us@US",
+      "name": "Pluto TV Cine Comedia (United States)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8",
+      "number": "32"
+    },
+    {
+      "id": "CinePremiere.us@SD",
+      "name": "Cine Premiere",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8",
+      "number": "34"
     },
     {
       "id": "CineRomantico.us@SD",
@@ -176,6 +329,15 @@
       "number": "36"
     },
     {
+      "id": "CineTerror.us@US",
+      "name": "Cine Terror",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8",
+      "number": "37"
+    },
+    {
       "id": "ClassicCinema.us@SD",
       "name": "Classic Cinema (240p) [Not 24/7]",
       "group": "Movies",
@@ -183,6 +345,15 @@
       "referrer": "",
       "url": "https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8",
       "number": "39"
+    },
+    {
+      "id": "ClassicMoviesChannel.us@SD",
+      "name": "Classic Movies Channel",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8",
+      "number": "40"
     },
     {
       "id": "DePeliculaUS.us@SD",
@@ -203,6 +374,24 @@
       "number": "42"
     },
     {
+      "id": "PlutoTVEstrellasdeAccion.us@SD",
+      "name": "Pluto TV Estrellas de Accion",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8",
+      "number": "43"
+    },
+    {
+      "id": "FlicksofFury.us@SD",
+      "name": "Flicks of Fury",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8",
+      "number": "45"
+    },
+    {
       "id": "FilmRiseForensicFiles.us@SD",
       "name": "FilmRise Forensic Files (720p) [Geo-blocked]",
       "group": "Movies",
@@ -219,6 +408,15 @@
       "referrer": "",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229",
       "number": "47"
+    },
+    {
+      "id": "GirlfriendsFilms.us@SD",
+      "name": "Girlfriends Films",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8",
+      "number": "48"
     },
     {
       "id": "GravitasMovies.us@SD",
@@ -311,6 +509,159 @@
       "number": "62"
     },
     {
+      "id": "ParamountMovieChannel.us@SD",
+      "name": "Paramount Movie Channel",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+      "number": "63"
+    },
+    {
+      "id": "ParamountPlusPicks.us@SD",
+      "name": "Paramount+ Picks",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8",
+      "number": "64"
+    },
+    {
+      "id": "PlutoTVAction.us@US",
+      "name": "Pluto TV Action (United States)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8",
+      "number": "65"
+    },
+    {
+      "id": "PlutoTVCrimeDrama.us@SD",
+      "name": "Pluto TV Crime Drama",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8",
+      "number": "66"
+    },
+    {
+      "id": "PlutoTVCrimeMovies.us@SD",
+      "name": "Pluto TV Crime Movies",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8",
+      "number": "67"
+    },
+    {
+      "id": "PlutoTVCultFilms.us@US",
+      "name": "Pluto TV Cult Films (United States)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8",
+      "number": "68"
+    },
+    {
+      "id": "PlutoTVDrama.us@US",
+      "name": "Pluto TV Drama",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8",
+      "number": "69"
+    },
+    {
+      "id": "PlutoTVFranchiseFavorites.us@SD",
+      "name": "Pluto TV Franchise Favorites",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8",
+      "number": "70"
+    },
+    {
+      "id": "PlutoTVIcons.us@SD",
+      "name": "Pluto TV Icons",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8",
+      "number": "71"
+    },
+    {
+      "id": "PlutoTVReaction.us@SD",
+      "name": "Pluto TV Reaction",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8",
+      "number": "72"
+    },
+    {
+      "id": "PlutoTVSpotlight.us@SD",
+      "name": "Pluto TV Spotlight",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8",
+      "number": "73"
+    },
+    {
+      "id": "PlutoTVStaffPicks.us@SD",
+      "name": "Pluto TV Staff Picks",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8",
+      "number": "74"
+    },
+    {
+      "id": "PlutoTVTerror.us@SD",
+      "name": "Pluto TV Terror",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8",
+      "number": "75"
+    },
+    {
+      "id": "PlutoTVThrillers.us@US",
+      "name": "Pluto TV Thrillers",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8",
+      "number": "76"
+    },
+    {
+      "id": "PlutoTVTrendingNow.us@SD",
+      "name": "Pluto TV Trending Now",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8",
+      "number": "77"
+    },
+    {
+      "id": "PlutoTVWesterns.us@US",
+      "name": "Pluto TV Westerns (United States)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8",
+      "number": "78"
+    },
+    {
+      "id": "Runtime.us@SD",
+      "name": "Runtime (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8",
+      "number": "79"
+    },
+    {
       "id": "RuntimeEspanol.us@SD",
       "name": "Runtime Espanol (720p)",
       "group": "Movies",
@@ -318,6 +669,15 @@
       "referrer": "",
       "url": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8",
       "number": "80"
+    },
+    {
+      "id": "TVLandDrama.us@SD",
+      "name": "TV Land Drama",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8",
+      "number": "83"
     },
     {
       "id": "TVSDriveInMovie.us@SD",
@@ -356,6 +716,24 @@
       "number": "102"
     },
     {
+      "id": "BETThrowbacks.us@SD",
+      "name": "BET Throwbacks",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8",
+      "number": "105"
+    },
+    {
+      "id": "BlackFamilySitcoms.us@SD",
+      "name": "Black Family Sitcoms",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-686d61503484d6073283059d.m3u8",
+      "number": "106"
+    },
+    {
       "id": "CameraSmileTV.us@SD",
       "name": "Camera Smile TV (480p)",
       "group": "Comedy",
@@ -363,6 +741,51 @@
       "referrer": "",
       "url": "https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8",
       "number": "107"
+    },
+    {
+      "id": "CheersPlusFrasier.us@SD",
+      "name": "Cheers + Frasier",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8",
+      "number": "108"
+    },
+    {
+      "id": "ClassicTVComedy.us@SD",
+      "name": "Classic TV Comedy",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8",
+      "number": "109"
+    },
+    {
+      "id": "ComedyCentralAnimation.us@SD",
+      "name": "Comedy Central Animation",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8",
+      "number": "111"
+    },
+    {
+      "id": "ComedyCentralenEspanol.us@SD",
+      "name": "Comedy Central en Espanol",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8",
+      "number": "112"
+    },
+    {
+      "id": "ComedyCentralPlutoTV.us@US",
+      "name": "Comedy Central Pluto TV",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8",
+      "number": "113"
     },
     {
       "id": "DryBarComedyPlus.us@SD",
@@ -383,6 +806,15 @@
       "number": "116"
     },
     {
+      "id": "FunnyAF.us@SD",
+      "name": "Funny AF",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
+      "number": "117"
+    },
+    {
       "id": "JustforLaughsGags.us@SD",
       "name": "Just for Laughs Gags (1080p)",
       "group": "Comedy",
@@ -399,6 +831,15 @@
       "referrer": "",
       "url": "https://cdn.whiplash.cc/whiplash-cinema/index.m3u8",
       "number": "122"
+    },
+    {
+      "id": "MoreTVSitcoms.us@SD",
+      "name": "More TV Sitcoms",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8",
+      "number": "123"
     },
     {
       "id": "MysteryScienceTheater3000.us@SD",
@@ -419,6 +860,24 @@
       "number": "125"
     },
     {
+      "id": "PlutoTVComedy.us@US",
+      "name": "Pluto TV Comedy",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5a4d3a00ad95e4718ae8d8db.m3u8",
+      "number": "126"
+    },
+    {
+      "id": "Ridiculousness.us@SD",
+      "name": "Ridiculousness (United States)",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6996296087742204bff43147.m3u8",
+      "number": "127"
+    },
+    {
       "id": "RiffTrax.us@US",
       "name": "RiffTrax (720p)",
       "group": "Comedy",
@@ -426,6 +885,24 @@
       "referrer": "",
       "url": "https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8",
       "number": "128"
+    },
+    {
+      "id": "SitcomLegends.us@SD",
+      "name": "Sitcom Legends",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8",
+      "number": "129"
+    },
+    {
+      "id": "SketchyAF.us@SD",
+      "name": "Sketchy AF",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-67882c1c7b11714b795c2008.m3u8",
+      "number": "130"
     },
     {
       "id": "SNLVault.us@SD",
@@ -444,6 +921,15 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
       "number": "132"
+    },
+    {
+      "id": "TVLandSitcoms.us@SD",
+      "name": "TV Land Sitcoms",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+      "number": "133"
     },
     {
       "id": "TVSComedyNetwork.us@SD",
@@ -509,6 +995,15 @@
       "number": "142"
     },
     {
+      "id": "AmericasNextTopModel.us@SD",
+      "name": "America's Next Top Model",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8",
+      "number": "144"
+    },
+    {
       "id": "AsianCrush.us@SD",
       "name": "AsianCrush (1080p)",
       "group": "Entertainment",
@@ -534,6 +1029,51 @@
       "referrer": "",
       "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
       "number": "148"
+    },
+    {
+      "id": "BestofDrPhil.us@SD",
+      "name": "Best of Dr Phil",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8",
+      "number": "149"
+    },
+    {
+      "id": "BETClassicsPlutoTV.us@SD",
+      "name": "BET Classics Pluto TV",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+      "number": "150"
+    },
+    {
+      "id": "BETPlutoTV.us@US",
+      "name": "BET Pluto TV",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
+      "number": "153"
+    },
+    {
+      "id": "BeyondtheGates.us@SD",
+      "name": "Beyond the Gates",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8",
+      "number": "154"
+    },
+    {
+      "id": "BigBrother.us@SD",
+      "name": "Big Brother",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8",
+      "number": "155"
     },
     {
       "id": "BounceXL.us@SD",
@@ -563,6 +1103,42 @@
       "number": "158"
     },
     {
+      "id": "CarChase.us@SD",
+      "name": "Car Chase (United States) (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8",
+      "number": "159"
+    },
+    {
+      "id": "CBSenespanol.us@SD",
+      "name": "CBS en espanol",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
+      "number": "161"
+    },
+    {
+      "id": "Cineaventura.us@SD",
+      "name": "Cine aventura",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8",
+      "number": "162"
+    },
+    {
+      "id": "Cineenespanol.us@SD",
+      "name": "Cine en espanol",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8",
+      "number": "163"
+    },
+    {
       "id": "Circle.us@SD",
       "name": "Circle (1080p)",
       "group": "Entertainment",
@@ -588,6 +1164,42 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
       "number": "166"
+    },
+    {
+      "id": "CSIMiamienespanol.us@SD",
+      "name": "CSI: Miami en espanol",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8",
+      "number": "167"
+    },
+    {
+      "id": "CSINYenespanol.us@SD",
+      "name": "CSI: NY en espanol",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8",
+      "number": "168"
+    },
+    {
+      "id": "DatingDisasters.us@SD",
+      "name": "Dating Disasters",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-651f239d9c7aeb0008286823.m3u8",
+      "number": "169"
+    },
+    {
+      "id": "DCCMakingtheTeam.us@SD",
+      "name": "DCC: Making the Team",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d40855b3fb0855028c99b6f.m3u8",
+      "number": "170"
     },
     {
       "id": "MeritStreet.us@SD",
@@ -644,6 +1256,24 @@
       "number": "183"
     },
     {
+      "id": "GameShowCentral.us@SD",
+      "name": "Game Show Central (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8",
+      "number": "184"
+    },
+    {
+      "id": "GlobalWorldTV.us@SD",
+      "name": "GlobalWorldTV (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8",
+      "number": "186"
+    },
+    {
       "id": "GritXtra.us@SD",
       "name": "Grit Xtra (1080p)",
       "group": "Entertainment",
@@ -662,6 +1292,15 @@
       "number": "188"
     },
     {
+      "id": "Heartland.us@Web",
+      "name": "Heartland Web",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
+      "number": "189"
+    },
+    {
       "id": "HiYAH.us@SD",
       "name": "Hi-YAH! (1080p)",
       "group": "Entertainment",
@@ -669,6 +1308,15 @@
       "referrer": "",
       "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
       "number": "190"
+    },
+    {
+      "id": "HotBench.us@SD",
+      "name": "Hot Bench (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8",
+      "number": "191"
     },
     {
       "id": "ImpactNetwork.us@SD",
@@ -761,6 +1409,24 @@
       "number": "205"
     },
     {
+      "id": "LiveMusic.us@SD",
+      "name": "Live Music",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8",
+      "number": "209"
+    },
+    {
+      "id": "LogoPlutoTV.us@SD",
+      "name": "Logo Pluto TV",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ce5a8954311f992edbe1da2.m3u8",
+      "number": "211"
+    },
+    {
       "id": "MidnightPulp.us@SD",
       "name": "Midnight Pulp (1080p)",
       "group": "Entertainment",
@@ -770,6 +1436,15 @@
       "number": "216"
     },
     {
+      "id": "MoreTVDrama.us@SD",
+      "name": "More TV Drama",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8",
+      "number": "217"
+    },
+    {
       "id": "MTV.us@East",
       "name": "MTV (United States) (1080p)",
       "group": "Entertainment",
@@ -777,6 +1452,24 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
       "number": "218"
+    },
+    {
+      "id": "MTVenEspanol.us@SD",
+      "name": "MTV en Espanol",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8",
+      "number": "220"
+    },
+    {
+      "id": "MTVPlutoTV.us@US",
+      "name": "MTV Pluto TV",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8",
+      "number": "221"
     },
     {
       "id": "Roar.us@KCWX",
@@ -822,6 +1515,24 @@
       "referrer": "",
       "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8",
       "number": "231"
+    },
+    {
+      "id": "PlutoTVGameShows.us@SD",
+      "name": "Pluto TV Game Shows",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8",
+      "number": "232"
+    },
+    {
+      "id": "PlutoTVReality.us@US",
+      "name": "Pluto TV Reality",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8",
+      "number": "233"
     },
     {
       "id": "RevryLatinX.us@SD",
@@ -887,6 +1598,15 @@
       "number": "242"
     },
     {
+      "id": "TeleMIX.us@SD",
+      "name": "TeleMIX (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://haititivi.com/haiti/telemix1/index.m3u8",
+      "number": "243"
+    },
+    {
       "id": "TelemundoCorpusChristi.us@SD",
       "name": "Telemundo Corpus Christi (720p)",
       "group": "Entertainment",
@@ -905,6 +1625,24 @@
       "number": "245"
     },
     {
+      "id": "ThePriceIsRight.us@HD",
+      "name": "The Price Is Right",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8",
+      "number": "246"
+    },
+    {
+      "id": "ThePriceIsRightTheBarkerEra.us@SD",
+      "name": "The Price Is Right: The Barker Era (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8",
+      "number": "247"
+    },
+    {
       "id": "TinTV.us@SD",
       "name": "Tin TV (720p)",
       "group": "Entertainment",
@@ -921,6 +1659,15 @@
       "referrer": "",
       "url": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8",
       "number": "249"
+    },
+    {
+      "id": "ToughJobs.us@SD",
+      "name": "Tough Jobs",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8",
+      "number": "250"
     },
     {
       "id": "TurismoHD.do@HD",
@@ -948,6 +1695,15 @@
       "referrer": "",
       "url": "https://rpn.bozztv.com/gusa/gusa-tvsvintage/index.m3u8",
       "number": "253"
+    },
+    {
+      "id": "VH1QueensofReality.us@SD",
+      "name": "VH1 Queens of Reality",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8",
+      "number": "254"
     },
     {
       "id": "WipeoutXtra.us@SD",
@@ -1092,6 +1848,24 @@
       "referrer": "",
       "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
       "number": "295"
+    },
+    {
+      "id": "BlazeLive.us@SD",
+      "name": "Blaze Live (720p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8",
+      "number": "296"
+    },
+    {
+      "id": "CBSNews247.us@SD",
+      "name": "CBS News 24/7 (720p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
+      "number": "297"
     },
     {
       "id": "CBSNewsBaltimore.us@SD",
@@ -1247,6 +2021,15 @@
       "number": "331"
     },
     {
+      "id": "News12PlusLongIsland.us@HD",
+      "name": "News12+ Long Island (1080p) [Geo-blocked]",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8",
+      "number": "332"
+    },
+    {
       "id": "News12PlusNewJersey.us@HD",
       "name": "News12+ New Jersey (1080p) [Geo-blocked]",
       "group": "News",
@@ -1254,6 +2037,15 @@
       "referrer": "",
       "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8",
       "number": "333"
+    },
+    {
+      "id": "News12PlusNewYork.us@HD",
+      "name": "News12+ New York (1080p) [Geo-blocked]",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8",
+      "number": "334"
     },
     {
       "id": "News12Bronx.us@SD",
@@ -1526,6 +2318,15 @@
       "number": "372"
     },
     {
+      "id": "PlutoTVCars.us@SD",
+      "name": "Pluto TV Cars",
+      "group": "Auto",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8",
+      "number": "374"
+    },
+    {
       "id": "PowerNationTV.us@SD",
       "name": "PowerNation TV (1080p)",
       "group": "Auto",
@@ -1632,6 +2433,15 @@
       "referrer": "",
       "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
       "number": "415"
+    },
+    {
+      "id": "HogansHeroes.us@SD",
+      "name": "Hogan's Heroes",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8",
+      "number": "939"
     },
     {
       "id": "3ABNEnglish.us@SD",
@@ -1758,6 +2568,33 @@
       "referrer": "",
       "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
       "number": "1014"
+    },
+    {
+      "id": "50CentAction.us@SD",
+      "name": "50 Cent Action (720p)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
+      "number": "1015"
+    },
+    {
+      "id": "90sKids.us@SD",
+      "name": "90's Kids",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8",
+      "number": "1016"
+    },
+    {
+      "id": "90sKidsTV2.us@SD",
+      "name": "90s Kids TV 2",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8",
+      "number": "1017"
     },
     {
       "id": "ABC.us@KAAL",
@@ -1965,6 +2802,15 @@
       "referrer": "",
       "url": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8",
       "number": "1046"
+    },
+    {
+      "id": "AcapulcoShore.us@US",
+      "name": "Acapulco Shore US",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8",
+      "number": "1047"
     },
     {
       "id": "ACCDigitalNetwork.us@SD",
@@ -2217,6 +3063,15 @@
       "referrer": "",
       "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
       "number": "1079"
+    },
+    {
+      "id": "AllRealitybyWEtv.us@SD",
+      "name": "All Reality by WE tv (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e82530945600e0007ca076c.m3u8",
+      "number": "1080"
     },
     {
       "id": "AllWeddingsWEtv.us@SD",
@@ -2552,6 +3407,24 @@
       "number": "1124"
     },
     {
+      "id": "BarRescue.us@SD",
+      "name": "Bar Rescue",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8",
+      "number": "1125"
+    },
+    {
+      "id": "BattlestarGalactica.us@SD",
+      "name": "Battlestar Galactica",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8",
+      "number": "1126"
+    },
+    {
       "id": "BATVEducationalChannel.us@SD",
       "name": "BATV Educational Channel",
       "group": "Education",
@@ -2660,6 +3533,15 @@
       "number": "1143"
     },
     {
+      "id": "BellatorMMA.us@SD",
+      "name": "Bellator MMA",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
+      "number": "1144"
+    },
+    {
       "id": "BerksCommunityTV.us@SD",
       "name": "Berks Community TV (1080p)",
       "group": "General",
@@ -2703,6 +3585,24 @@
       "referrer": "",
       "url": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8",
       "number": "1149"
+    },
+    {
+      "id": "BeverlyHillbillies.us@US",
+      "name": "Beverly Hillbillies",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8",
+      "number": "1150"
+    },
+    {
+      "id": "BeverlyHills90210.us@SD",
+      "name": "Beverly Hills 90210",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8",
+      "number": "1151"
     },
     {
       "id": "BHTV10.us@SD",
@@ -2777,6 +3677,15 @@
       "number": "1159"
     },
     {
+      "id": "BlackInkCrew.us@SD",
+      "name": "Black Ink Crew",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8",
+      "number": "1160"
+    },
+    {
       "id": "BloombergOriginals.us@US",
       "name": "Bloomberg Originals (1080p)",
       "group": "Business;Documentary",
@@ -2822,6 +3731,15 @@
       "number": "1165"
     },
     {
+      "id": "BlueBloods.us@SD",
+      "name": "Blue Bloods",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8",
+      "number": "1166"
+    },
+    {
       "id": "BMCHDTV.us@SD",
       "name": "BMC-HD TV (720p)",
       "group": "General",
@@ -2838,6 +3756,15 @@
       "referrer": "",
       "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
       "number": "1168"
+    },
+    {
+      "id": "Bonanza.us@SD",
+      "name": "Bonanza",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8",
+      "number": "1169"
     },
     {
       "id": "Boomerang.us@SD",
@@ -2955,6 +3882,15 @@
       "referrer": "",
       "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
       "number": "1182"
+    },
+    {
+      "id": "BXInspire.us@SD",
+      "name": "BX Inspire (720p)",
+      "group": "General;Religious",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8",
+      "number": "1183"
     },
     {
       "id": "BXOmni.us@SD",
@@ -3209,6 +4145,15 @@
       "number": "1215"
     },
     {
+      "id": "CBSSportsHQ.us@SD",
+      "name": "CBS Sports HQ (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+      "number": "1216"
+    },
+    {
       "id": "CCTV.us@SD",
       "name": "CC-TV (720p)",
       "group": "Undefined",
@@ -3216,6 +4161,15 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8",
       "number": "1217"
+    },
+    {
+      "id": "CCX1.us@SD",
+      "name": "CCX1 (1080p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://reflect-ccx.cablecast.tv/live-9/live/stream-1/live.m3u8",
+      "number": "1218"
     },
     {
       "id": "CelebrityNameGame.us@SD",
@@ -3452,6 +4406,51 @@
       "number": "1246"
     },
     {
+      "id": "ClassicMovieWesterns.us@SD",
+      "name": "Classic Movie Westerns",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61f33318210549000806a530.m3u8",
+      "number": "1247"
+    },
+    {
+      "id": "ClassicTVCrimeDrama.us@SD",
+      "name": "Classic TV Crime Drama",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8",
+      "number": "1248"
+    },
+    {
+      "id": "ClassicTVDrama.us@SD",
+      "name": "Classic TV Drama",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8",
+      "number": "1249"
+    },
+    {
+      "id": "ClassicTVFamilies.us@US",
+      "name": "Classic TV: Families",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8",
+      "number": "1250"
+    },
+    {
+      "id": "Classica.us@SD",
+      "name": "Classica (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8",
+      "number": "1251"
+    },
+    {
       "id": "CloudflareTV.us@SD",
       "name": "Cloudflare TV (720p)",
       "group": "Education",
@@ -3542,6 +4541,15 @@
       "number": "1261"
     },
     {
+      "id": "CMTEqualPlay.us@SD",
+      "name": "CMT Equal Play (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
+      "number": "1262"
+    },
+    {
       "id": "CMTV.us@SD",
       "name": "CMTV (720p)",
       "group": "General",
@@ -3612,6 +4620,15 @@
       "referrer": "",
       "url": "https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8",
       "number": "1273"
+    },
+    {
+      "id": "ConcertChannel.us@SD",
+      "name": "Concert Channel (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8",
+      "number": "1274"
     },
     {
       "id": "ConcordTV.us@SD",
@@ -3722,6 +4739,24 @@
       "number": "1288"
     },
     {
+      "id": "Crime360.us@SD",
+      "name": "Crime 360 (720p)",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8",
+      "number": "1289"
+    },
+    {
+      "id": "CrimenesImperfectos.us@SD",
+      "name": "Crimenes Imperfectos",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8",
+      "number": "1290"
+    },
+    {
       "id": "CruzTV.us@SD",
       "name": "Cruz TV",
       "group": "Legislative",
@@ -3738,6 +4773,42 @@
       "referrer": "",
       "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
       "number": "1292"
+    },
+    {
+      "id": "CSI.us@SD",
+      "name": "CSI (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
+      "number": "1293"
+    },
+    {
+      "id": "CSIenespanol.us@SD",
+      "name": "CSI en espanol",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8",
+      "number": "1294"
+    },
+    {
+      "id": "CSIMiami.us@SD",
+      "name": "CSI: Miami",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8",
+      "number": "1295"
+    },
+    {
+      "id": "CSINY.us@SD",
+      "name": "CSI: NY",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8",
+      "number": "1296"
     },
     {
       "id": "CTNCourtFeed.us@SD",
@@ -3983,6 +5054,15 @@
       "number": "1325"
     },
     {
+      "id": "DetroitChannel21.us@SD",
+      "name": "Detroit Channel 21",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8",
+      "number": "1327"
+    },
+    {
       "id": "DetroitChannel22.us@SD",
       "name": "Detroit Channel 22",
       "group": "Education",
@@ -4136,6 +5216,15 @@
       "number": "1347"
     },
     {
+      "id": "Dynasty.us@SD",
+      "name": "Dynasty",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8",
+      "number": "1348"
+    },
+    {
       "id": "EbonyTVbyLionsgate.us@SD",
       "name": "Ebony TV by Lionsgate (1080p)",
       "group": "Movies;Series",
@@ -4271,6 +5360,24 @@
       "number": "1368"
     },
     {
+      "id": "FamilyTies.us@SD",
+      "name": "Family Ties (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
+      "number": "1370"
+    },
+    {
+      "id": "Farscape.us@SD",
+      "name": "Farscape",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8",
+      "number": "1371"
+    },
+    {
       "id": "FashionFinds.us@SD",
       "name": "Fashion Finds (720p)",
       "group": "Lifestyle;Shop",
@@ -4314,6 +5421,15 @@
       "referrer": "",
       "url": "https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8",
       "number": "1376"
+    },
+    {
+      "id": "FeelGoodDrama.us@SD",
+      "name": "Feel Good Drama",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8",
+      "number": "1377"
     },
     {
       "id": "FernandinaBeachChannel.us@SD",
@@ -4395,6 +5511,24 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
       "number": "1387"
+    },
+    {
+      "id": "ForensicFiles.us@SD",
+      "name": "Forensic Files",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8",
+      "number": "1388"
+    },
+    {
+      "id": "ForeverKids.us@SD",
+      "name": "Forever Kids",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
+      "number": "1389"
     },
     {
       "id": "Fox.us@KBSI",
@@ -4541,15 +5675,6 @@
       "number": "1412"
     },
     {
-      "id": "FoxDeportes.us@SD",
-      "name": "Fox Deportes (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "number": "1413"
-    },
-    {
       "id": "FoxSoul.us@SD",
       "name": "Fox Soul (1080p)",
       "group": "Culture",
@@ -4640,6 +5765,15 @@
       "number": "1425"
     },
     {
+      "id": "GarfieldandFriends.us@US",
+      "name": "Garfield and Friends",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8",
+      "number": "1426"
+    },
+    {
       "id": "GCNAmerica.us@SD",
       "name": "GCN America (720p)",
       "group": "Religious",
@@ -4721,6 +5855,15 @@
       "number": "1441"
     },
     {
+      "id": "GolazoNetwork.us@SD",
+      "name": "Golazo Network (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+      "number": "1442"
+    },
+    {
       "id": "GoodLife45.us@SD",
       "name": "GoodLife 45 (720p) [Not 24/7]",
       "group": "Religious",
@@ -4791,6 +5934,24 @@
       "referrer": "",
       "url": "https://tv.gunaz.tv/hls/live.m3u8",
       "number": "1451"
+    },
+    {
+      "id": "Gunsmoke.us@SD",
+      "name": "Gunsmoke",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8",
+      "number": "1452"
+    },
+    {
+      "id": "HappyDays.us@SD",
+      "name": "Happy Days (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8",
+      "number": "1454"
     },
     {
       "id": "HappyKids.us@SD",
@@ -4982,6 +6143,15 @@
       "number": "1478"
     },
     {
+      "id": "HomeMadeNation.us@SD",
+      "name": "Home.Made.Nation (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8",
+      "number": "1479"
+    },
+    {
       "id": "Homeful.ca@US",
       "name": "Homeful US (1080p)",
       "group": "Undefined",
@@ -5081,6 +6251,24 @@
       "number": "1491"
     },
     {
+      "id": "ILoveLucy.us@SD",
+      "name": "I Love Lucy",
+      "group": "Classic;Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8",
+      "number": "1492"
+    },
+    {
+      "id": "iCarly.us@SD",
+      "name": "iCarly (United States) SD",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8",
+      "number": "1493"
+    },
+    {
       "id": "iHolyfieldTV.us@WHPSCD",
       "name": "iHolyfield TV WHPS-CD",
       "group": "Undefined",
@@ -5115,6 +6303,33 @@
       "referrer": "",
       "url": "https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8",
       "number": "1498"
+    },
+    {
+      "id": "InkMaster.us@SD",
+      "name": "Ink Master",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
+      "number": "1499"
+    },
+    {
+      "id": "InstantSaga.us@US",
+      "name": "Instant Saga",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8",
+      "number": "1500"
+    },
+    {
+      "id": "Investiga.us@US",
+      "name": "Investiga US",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8",
+      "number": "1501"
     },
     {
       "id": "InvestigationDiscovery.us@East",
@@ -5169,6 +6384,15 @@
       "referrer": "",
       "url": "https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8",
       "number": "1508"
+    },
+    {
+      "id": "JerseyShore.us@SD",
+      "name": "Jersey Shore (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8",
+      "number": "1509"
     },
     {
       "id": "JewelryTV2.us@SD",
@@ -5279,6 +6503,15 @@
       "number": "1529"
     },
     {
+      "id": "KidsMovieClub.us@SD",
+      "name": "Kids Movie Club",
+      "group": "Kids;Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8",
+      "number": "1533"
+    },
+    {
       "id": "KidsFlix.us@SD",
       "name": "KidsFlix (1080p) [Not 24/7]",
       "group": "Kids;Movies",
@@ -5369,6 +6602,15 @@
       "number": "1545"
     },
     {
+      "id": "LA36.us@SD",
+      "name": "LA36 (1080p)",
+      "group": "Education",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8",
+      "number": "1547"
+    },
+    {
       "id": "LaVozdeJesusHD.do@HD",
       "name": "La Voz de Jesus HD (720p)",
       "group": "Religious",
@@ -5394,6 +6636,15 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8",
       "number": "1552"
+    },
+    {
+      "id": "LasVegasTonightwithDaleDavidson.us@HD",
+      "name": "Las Vegas Tonight with Dale Davidson (1080p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8",
+      "number": "1555"
     },
     {
       "id": "LatinoChannelTV.us@HD",
@@ -5430,6 +6681,15 @@
       "referrer": "",
       "url": "https://dltiqboxjw21d.cloudfront.net/index.m3u8",
       "number": "1559"
+    },
+    {
+      "id": "LEGOKidsTV.us@SD",
+      "name": "LEGO Kids TV",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8",
+      "number": "1560"
     },
     {
       "id": "LeominsterTVEducational.us@SD",
@@ -5493,6 +6753,15 @@
       "referrer": "",
       "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
       "number": "1567"
+    },
+    {
+      "id": "LittleStarsUniverse.us@SD",
+      "name": "Little Stars Universe",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8",
+      "number": "1568"
     },
     {
       "id": "LIVExLIVE.us@SD",
@@ -5630,6 +6899,15 @@
       "number": "1585"
     },
     {
+      "id": "LoveHipHop.us@SD",
+      "name": "Love & Hip Hop",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8",
+      "number": "1587"
+    },
+    {
       "id": "LoveNatureenEspanol.us@SD",
       "name": " like Geck0) Chrome/102.0.0.0 Safari/537.37\" group-title=\"Undefined\",Love Nature en Espanol (1080p)",
       "group": "Undefined",
@@ -5718,6 +6996,15 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8",
       "number": "1599"
+    },
+    {
+      "id": "Matlock.us@SD",
+      "name": "Matlock (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8",
+      "number": "1600"
     },
     {
       "id": "Maxcine2.us@HD",
@@ -5945,6 +7232,15 @@
       "number": "1626"
     },
     {
+      "id": "MissionImpossible.us@SD",
+      "name": "Mission Impossible (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8",
+      "number": "1627"
+    },
+    {
       "id": "MissionTV.us@SD",
       "name": "Mission TV (1080p) [Not 24/7]",
       "group": "Religious",
@@ -5952,6 +7248,24 @@
       "referrer": "",
       "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
       "number": "1628"
+    },
+    {
+      "id": "Misteriossinresolver.us@SD",
+      "name": "Misterios sin resolver",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
+      "number": "1629"
+    },
+    {
+      "id": "MLB.us@SD",
+      "name": "MLB (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
+      "number": "1630"
     },
     {
       "id": "MLBStrikeZone.us@SD",
@@ -6017,6 +7331,15 @@
       "number": "1640"
     },
     {
+      "id": "MoreTrueCrime.us@SD",
+      "name": "More True Crime",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8",
+      "number": "1641"
+    },
+    {
       "id": "MovieSphereGold.us@WFXT",
       "name": "MovieSphere Gold WFXT (1080p)",
       "group": "Movies",
@@ -6071,6 +7394,24 @@
       "number": "1649"
     },
     {
+      "id": "MTVBiggestPop.us@US",
+      "name": "MTV Biggest Pop (1080p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8",
+      "number": "1650"
+    },
+    {
+      "id": "MTVFlowLatino.us@SD",
+      "name": "MTV Flow Latino (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8",
+      "number": "1651"
+    },
+    {
       "id": "MTVLive.us@SD",
       "name": "MTV Live (720p)",
       "group": "Music",
@@ -6078,6 +7419,15 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
       "number": "1652"
+    },
+    {
+      "id": "MTVSpankinNew.us@US",
+      "name": "MTV Spankin' New (1080p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8",
+      "number": "1653"
     },
     {
       "id": "MuslimNetworkTV.us@SD",
@@ -6159,6 +7509,15 @@
       "referrer": "",
       "url": "http://198.58.104.90:8989/natgeowild/index.m3u8",
       "number": "1663"
+    },
+    {
+      "id": "NBATV.us@SD",
+      "name": "NBA TV (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+      "number": "1664"
     },
     {
       "id": "NBC.us@KNTV",
@@ -6368,6 +7727,15 @@
       "number": "1701"
     },
     {
+      "id": "NFLChannel.us@SD",
+      "name": "NFL Channel (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8",
+      "number": "1702"
+    },
+    {
       "id": "NFLNetwork.us@SD",
       "name": "NFL Network (720p)",
       "group": "Sports",
@@ -6413,6 +7781,15 @@
       "number": "1707"
     },
     {
+      "id": "NickJrPlutoTV.us@US",
+      "name": "Nick Jr. Pluto TV (720p)",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+      "number": "1708"
+    },
+    {
       "id": "Nickelodeon.us@East",
       "name": "Nickelodeon (United States) (720p)",
       "group": "Kids",
@@ -6420,6 +7797,24 @@
       "referrer": "",
       "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
       "number": "1709"
+    },
+    {
+      "id": "Nickelodeonenespanol.us@SD",
+      "name": "Nickelodeon en espanol",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+      "number": "1710"
+    },
+    {
+      "id": "NickelodeonPlutoTV.us@SD",
+      "name": "Nickelodeon Pluto TV (720p)",
+      "group": "Animation;Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+      "number": "1711"
     },
     {
       "id": "Nicktoons.us@East",
@@ -6665,6 +8060,15 @@
       "number": "1742"
     },
     {
+      "id": "PascoTV.us@SD",
+      "name": "Pasco TV (480p)",
+      "group": "Legislative",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
+      "number": "1743"
+    },
+    {
       "id": "PayameAfghanTV.us@SD",
       "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
       "group": "General",
@@ -6699,6 +8103,15 @@
       "referrer": "",
       "url": "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8",
       "number": "1748"
+    },
+    {
+      "id": "PBRRidePass.us@SD",
+      "name": "PBR RidePass (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
+      "number": "1749"
     },
     {
       "id": "PBS.us@East",
@@ -6818,6 +8231,15 @@
       "number": "1767"
     },
     {
+      "id": "PCTChannel27.us@SD",
+      "name": "PCT Channel 27 (720p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "number": "1768"
+    },
+    {
       "id": "PCTV26.us@SD",
       "name": "PCTV 26 (480p)",
       "group": "Legislative",
@@ -6834,6 +8256,24 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8",
       "number": "1770"
+    },
+    {
+      "id": "PeppaPig.us@SD",
+      "name": "Peppa Pig",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8",
+      "number": "1771"
+    },
+    {
+      "id": "PerryMason.us@SD",
+      "name": "Perry Mason",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8",
+      "number": "1772"
     },
     {
       "id": "PGATour.us@SD",
@@ -6872,6 +8312,213 @@
       "number": "1776"
     },
     {
+      "id": "PlutoTVAdventure.us@US",
+      "name": "Pluto TV Adventure",
+      "group": "Entertainment;Outdoor;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8",
+      "number": "1778"
+    },
+    {
+      "id": "PlutoTVCompetition.us@SD",
+      "name": "Pluto TV Competition",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+      "number": "1779"
+    },
+    {
+      "id": "PlutoTVDogelcazarrecompensas.us@SD",
+      "name": "Pluto TV Dog el cazarrecompensas",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8",
+      "number": "1780"
+    },
+    {
+      "id": "PlutoTVElReinoInfantil.us@SD",
+      "name": "Pluto TV El Reino Infantil",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8",
+      "number": "1781"
+    },
+    {
+      "id": "PlutoTVFantastic.us@SD",
+      "name": "Pluto TV Fantastic",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5b64a245a202b3337f09e51d.m3u8",
+      "number": "1782"
+    },
+    {
+      "id": "PlutoTVHistory.us@US",
+      "name": "Pluto TV History",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8",
+      "number": "1783"
+    },
+    {
+      "id": "PlutoTVHometownDrama.us@SD",
+      "name": "Pluto TV Hometown Drama",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8",
+      "number": "1784"
+    },
+    {
+      "id": "PlutoTVHorror.us@US",
+      "name": "Pluto TV Horror (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8",
+      "number": "1785"
+    },
+    {
+      "id": "PlutoTVLives.us@US",
+      "name": "Pluto TV Lives",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8",
+      "number": "1786"
+    },
+    {
+      "id": "PlutoTVLosnuevosdetectives.us@SD",
+      "name": "Pluto TV Los nuevos detectives",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8",
+      "number": "1787"
+    },
+    {
+      "id": "PlutoTVMilitary.us@SD",
+      "name": "Pluto TV Military",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8",
+      "number": "1788"
+    },
+    {
+      "id": "PlutoTVMinutoParaGanar.us@SD",
+      "name": "Pluto TV Minuto Para Ganar",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8",
+      "number": "1789"
+    },
+    {
+      "id": "PlutoTVMisteriosMedicos.us@SD",
+      "name": "Pluto TV Misterios Medicos",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8",
+      "number": "1790"
+    },
+    {
+      "id": "PlutoTVNovelas.us@US",
+      "name": "Pluto TV Novelas",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8",
+      "number": "1791"
+    },
+    {
+      "id": "PlutoTVParanormal.us@US",
+      "name": "Pluto TV Paranormal (United States)",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+      "number": "1792"
+    },
+    {
+      "id": "PlutoTVRomance.us@US",
+      "name": "Pluto TV Romance",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8",
+      "number": "1793"
+    },
+    {
+      "id": "PlutoTVSanctuary.us@SD",
+      "name": "Pluto TV Sanctuary",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8",
+      "number": "1794"
+    },
+    {
+      "id": "PlutoTVSciFi.us@US",
+      "name": "Pluto TV Sci-Fi (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8",
+      "number": "1795"
+    },
+    {
+      "id": "PlutoTVScience.us@US",
+      "name": "Pluto TV Science",
+      "group": "Documentary;Science",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8",
+      "number": "1796"
+    },
+    {
+      "id": "PlutoTVStorageWars.us@SD",
+      "name": "Pluto TV Storage Wars (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8",
+      "number": "1797"
+    },
+    {
+      "id": "PlutoTVTheTwilightZone.us@SD",
+      "name": "Pluto TV The Twilight Zone",
+      "group": "Classic;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8",
+      "number": "1798"
+    },
+    {
+      "id": "PlutoTVTrueCrime.us@US",
+      "name": "Pluto TV True Crime (United States)",
+      "group": "Documentary;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
+      "number": "1799"
+    },
+    {
+      "id": "PlutoTVWipeout.us@SD",
+      "name": "Pluto TV Wipeout",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8",
+      "number": "1800"
+    },
+    {
       "id": "pocketwatch.us@SD",
       "name": "pocket.watch (1080p)",
       "group": "Kids",
@@ -6888,6 +8535,15 @@
       "referrer": "",
       "url": "https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8",
       "number": "1802"
+    },
+    {
+      "id": "PokerGo.us@US",
+      "name": "PokerGo",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
+      "number": "1803"
     },
     {
       "id": "Portlandia.us@SD",
@@ -7041,6 +8697,15 @@
       "referrer": "",
       "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
       "number": "1825"
+    },
+    {
+      "id": "Rawhide.us@SD",
+      "name": "Rawhide (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
+      "number": "1826"
     },
     {
       "id": "RCTV3.us@SD",
@@ -7529,6 +9194,15 @@
       "number": "1892"
     },
     {
+      "id": "SmithsonianChannelSelects.us@SD",
+      "name": "Smithsonian Channel Selects (United States)",
+      "group": "Science",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8",
+      "number": "1893"
+    },
+    {
       "id": "SmurfTV.us@SD",
       "name": "Smurf TV (480p)",
       "group": "Kids",
@@ -7554,6 +9228,24 @@
       "referrer": "",
       "url": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "number": "1896"
+    },
+    {
+      "id": "SpikeOutdoors.us@SD",
+      "name": "Spike Outdoors",
+      "group": "Outdoor",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8",
+      "number": "1897"
+    },
+    {
+      "id": "SpikePlutoTV.us@SD",
+      "name": "Spike Pluto TV",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8",
+      "number": "1898"
     },
     {
       "id": "SpiritTV.us@SD",
@@ -7599,6 +9291,42 @@
       "referrer": "",
       "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
       "number": "1903"
+    },
+    {
+      "id": "StarTrek.us@US",
+      "name": "Star Trek US",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8",
+      "number": "1904"
+    },
+    {
+      "id": "StarTrekDeepSpaceNine.us@SD",
+      "name": "Star Trek: Deep Space Nine",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8",
+      "number": "1905"
+    },
+    {
+      "id": "StarTrekTheNextGeneration.us@SD",
+      "name": "Star Trek: The Next Generation (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8",
+      "number": "1906"
+    },
+    {
+      "id": "StarTrekVoyager.us@SD",
+      "name": "Star Trek: Voyager (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
+      "number": "1907"
     },
     {
       "id": "Starz.us@West",
@@ -7680,6 +9408,15 @@
       "referrer": "",
       "url": "https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8",
       "number": "1918"
+    },
+    {
+      "id": "SupernaturalDrama.us@SD",
+      "name": "Supernatural Drama",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8",
+      "number": "1919"
     },
     {
       "id": "Survivor.us@SD",
@@ -7862,6 +9599,15 @@
       "number": "1943"
     },
     {
+      "id": "TeenMom.us@SD",
+      "name": "Teen Mom (United States)",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8",
+      "number": "1944"
+    },
+    {
       "id": "TeenNick.us@East",
       "name": "TeenNick (United States) (432p)",
       "group": "Kids",
@@ -7907,6 +9653,24 @@
       "number": "1950"
     },
     {
+      "id": "TelemundoTelenovelasClasicas.us@SD",
+      "name": "Telemundo Telenovelas Clasicas",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8",
+      "number": "1953"
+    },
+    {
+      "id": "TemeculaTV.us@SD",
+      "name": "Temecula TV (1080p)",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8",
+      "number": "1955"
+    },
+    {
       "id": "Tempe11.us@SD",
       "name": "Tempe 11",
       "group": "Undefined",
@@ -7932,6 +9696,15 @@
       "referrer": "",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
       "number": "1958"
+    },
+    {
+      "id": "TennisChannel.us@Plus2",
+      "name": "Tennis Channel +2 (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8",
+      "number": "1959"
     },
     {
       "id": "TerraMaterWILD.de@English",
@@ -7961,6 +9734,33 @@
       "number": "1962"
     },
     {
+      "id": "TheAddamsFamily.us@SD",
+      "name": "The Addams Family",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8",
+      "number": "1963"
+    },
+    {
+      "id": "TheAmazingRace.us@SD",
+      "name": "The Amazing Race",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8",
+      "number": "1964"
+    },
+    {
+      "id": "TheAndyGriffithShow.us@SD",
+      "name": "The Andy Griffith Show",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8",
+      "number": "1965"
+    },
+    {
       "id": "TheArchive.us@SD",
       "name": "The Archive (1080p)",
       "group": "Classic",
@@ -7979,6 +9779,15 @@
       "number": "1967"
     },
     {
+      "id": "TheChallenge.us@SD",
+      "name": "The Challenge",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8",
+      "number": "1971"
+    },
+    {
       "id": "TheChatShowChannel.uk@SD",
       "name": "The Chat Show Channel (1080p)",
       "group": "Comedy;Series",
@@ -7995,6 +9804,15 @@
       "referrer": "",
       "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8",
       "number": "1973"
+    },
+    {
+      "id": "TheConners.us@SD",
+      "name": "The Conners",
+      "group": "Comedy;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8",
+      "number": "1974"
     },
     {
       "id": "TheCountryNetwork.us@SD",
@@ -8033,6 +9851,15 @@
       "number": "1979"
     },
     {
+      "id": "TheJudgeJudyChannel.us@SD",
+      "name": "The Judge Judy Channel (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8",
+      "number": "1980"
+    },
+    {
       "id": "TheLoop.us@SD",
       "name": "The Loop (1080p)",
       "group": "Classic;Series",
@@ -8040,6 +9867,15 @@
       "referrer": "",
       "url": "https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8",
       "number": "1981"
+    },
+    {
+      "id": "TheLoveBoat.us@SD",
+      "name": "The Love Boat",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8",
+      "number": "1982"
     },
     {
       "id": "TheMontereyChannel.us@SD",
@@ -8058,6 +9894,15 @@
       "referrer": "",
       "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
       "number": "1984"
+    },
+    {
+      "id": "TheNewDetectives.us@US",
+      "name": "The New Detectives (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
+      "number": "1985"
     },
     {
       "id": "TheNowNetwork.us@SD",
@@ -8096,6 +9941,15 @@
       "number": "1989"
     },
     {
+      "id": "TheRifleman.us@SD",
+      "name": "The Rifleman",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8",
+      "number": "1990"
+    },
+    {
       "id": "TheWalkTV.us@SD",
       "name": "The Walk TV",
       "group": "Undefined",
@@ -8105,6 +9959,24 @@
       "number": "1991"
     },
     {
+      "id": "TheWalkingDeadenEspanol.us@SD",
+      "name": "The Walking Dead en Espanol (720p)",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8",
+      "number": "1992"
+    },
+    {
+      "id": "TheWalkingDeadUniverse.us@SD",
+      "name": "The Walking Dead Universe (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8",
+      "number": "1993"
+    },
+    {
       "id": "TheWeatherChannel.us@SD",
       "name": "The Weather Channel (1080p)",
       "group": "Weather",
@@ -8112,6 +9984,15 @@
       "referrer": "",
       "url": "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8",
       "number": "1994"
+    },
+    {
+      "id": "TheWildWildWest.us@SD",
+      "name": "The Wild Wild West (United States)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8",
+      "number": "1995"
     },
     {
       "id": "TheWordNetwork.us@SD",
@@ -8139,6 +10020,24 @@
       "referrer": "",
       "url": "https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8",
       "number": "1998"
+    },
+    {
+      "id": "ThreesCompany.us@SD",
+      "name": "Three's Company",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8",
+      "number": "2000"
+    },
+    {
+      "id": "TinyHouseNation.us@SD",
+      "name": "Tiny House Nation (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8",
+      "number": "2002"
     },
     {
       "id": "TLN.ca@KQSL",
@@ -8220,6 +10119,24 @@
       "referrer": "",
       "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
       "number": "2011"
+    },
+    {
+      "id": "Tosh0.us@SD",
+      "name": "Tosh.0 (United States)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5dae084727c8af0009fe40a4.m3u8",
+      "number": "2012"
+    },
+    {
+      "id": "TotallyTurtles.us@US",
+      "name": "Totally Turtles (United States)",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d0c16d686454ead733d08f8.m3u8",
+      "number": "2013"
     },
     {
       "id": "TribecaChannel.us@SD",
@@ -8319,6 +10236,15 @@
       "referrer": "",
       "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
       "number": "2027"
+    },
+    {
+      "id": "TVPanou.ht@SD",
+      "name": "TV Panou (720p) [Not 24/7]",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+      "number": "2028"
     },
     {
       "id": "TVQuisqueya.us@SD",
@@ -8771,6 +10697,15 @@
       "number": "2095"
     },
     {
+      "id": "VevoTrueSchoolHipHop.us@SD",
+      "name": "Vevo True School Hip-Hop",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
+      "number": "2099"
+    },
+    {
       "id": "VICETV.us@SD",
       "name": "VICE TV (1080p)",
       "group": "Undefined",
@@ -8933,6 +10868,15 @@
       "number": "2119"
     },
     {
+      "id": "WeedsNurseJackie.us@SD",
+      "name": "Weeds & Nurse Jackie (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8",
+      "number": "2120"
+    },
+    {
       "id": "WeHoTV.us@SD",
       "name": "WeHoTV (360p)",
       "group": "Undefined",
@@ -8940,6 +10884,15 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8",
       "number": "2121"
+    },
+    {
+      "id": "WesternTV.us@SD",
+      "name": "Western TV",
+      "group": "Classic",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8",
+      "number": "2122"
     },
     {
       "id": "Westerns4U.us@SD",
@@ -8994,6 +10947,15 @@
       "referrer": "",
       "url": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8",
       "number": "2128"
+    },
+    {
+      "id": "WildNOut.us@SD",
+      "name": "Wild 'N Out",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8",
+      "number": "2129"
     },
     {
       "id": "Willow.us@SD",
@@ -9149,6 +11111,15 @@
       "number": "2148"
     },
     {
+      "id": "XITEClassicCountry.nl@SD",
+      "name": "XITE Classic Country (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
+      "number": "2149"
+    },
+    {
       "id": "XITEJustChill.nl@US",
       "name": "XITE Just Chill (1080p)",
       "group": "Music",
@@ -9210,6 +11181,24 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
       "number": "2156"
+    },
+    {
+      "id": "YoMTV.us@SD",
+      "name": "Yo! MTV (1080p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8",
+      "number": "2157"
+    },
+    {
+      "id": "YouDotGov.us@SD",
+      "name": "YouDotGov",
+      "group": "Legislative",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8",
+      "number": "2158"
     },
     {
       "id": "YuGiOhenespanol.us@SD",
@@ -9282,6 +11271,60 @@
       "referrer": "",
       "url": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8",
       "number": "2172"
+    },
+    {
+      "id": "ESPN.us@HD",
+      "name": "ESPN (United States) HD (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
+      "number": "2173"
+    },
+    {
+      "id": "ESPN2.us@HD",
+      "name": "ESPN 2 (United States) HD (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+      "number": "2174"
+    },
+    {
+      "id": "LucasFriends.us@SD",
+      "name": "Lucas & Friends",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
+      "number": "2176"
+    },
+    {
+      "id": "AmericanNinjaWarrior.us@SD",
+      "name": "American Ninja Warrior (1080p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+      "number": "2177"
+    },
+    {
+      "id": "BotflixRadioo.us@HD",
+      "name": "Botflix Radioo (1080p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://hls.botflix.tv/radioo/index.m3u8",
+      "number": "2178"
+    },
+    {
+      "id": "BotflixTV.us@HD",
+      "name": "Botflix TV (1080p)",
+      "group": "Animation;Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://hls.botflix.tv/tv/index.m3u8",
+      "number": "2179"
     }
   ]
 }
