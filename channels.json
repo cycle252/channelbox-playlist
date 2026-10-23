@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T09:20:40.100579+00:00",
+  "generated_at": "2026-10-23T09:20:14.743521+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "E.us@East",
-      "name": "E! (United States) East (1080p)",
+      "name": "E! East (1080p)",
       "group": "Entertainment",
       "user_agent": "",
       "referrer": "",
@@ -9644,15 +9644,6 @@
       "number": "1959"
     },
     {
-      "id": "TerraMaterWILD.de@English",
-      "name": "Terra Mater WILD English (1080p)",
-      "group": "Documentary",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8",
-      "number": "1960"
-    },
-    {
       "id": "TeveVidaNetwork.us@SD",
       "name": "Teve Vida Network (480p) [Not 24/7]",
       "group": "Religious",
@@ -10533,24 +10524,6 @@
       "referrer": "",
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",
       "number": "2070"
-    },
-    {
-      "id": "UniversalComedy.us@SD",
-      "name": " like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Comedy;Movies;Series\",Universal Comedy (1080p)",
-      "group": "Comedy;Movies;Series",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "referrer": "",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
-      "number": "2072"
-    },
-    {
-      "id": "UniversalCrime.us@East",
-      "name": " like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Series\",Universal Crime (1080p)",
-      "group": "Series",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-      "referrer": "",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcrime/playlist.m3u8",
-      "number": "2073"
     },
     {
       "id": "Univision.us@KMEXDT",
