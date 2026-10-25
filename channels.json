@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T09:20:17.109064+00:00",
+  "generated_at": "2026-10-25T09:19:48.970345+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -5918,15 +5918,6 @@
       "number": "1456"
     },
     {
-      "id": "HarvestUSA.in@SD",
-      "name": "Harvest USA (576p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "number": "1458"
-    },
-    {
       "id": "HasbroLegends.us@SD",
       "name": "Hasbro Legends (1080p) [Geo-blocked]",
       "group": "Animation;Kids",
@@ -6114,15 +6105,6 @@
       "referrer": "",
       "url": "https://jstre.am/live/jsl:cZXINbwrFj6.m3u8",
       "number": "1484"
-    },
-    {
-      "id": "HopeChannelNorthAmerica.us@SD",
-      "name": "Hope Channel North America (1080p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8",
-      "number": "1485"
     },
     {
       "id": "HSN2.us@SD",
@@ -10155,15 +10137,6 @@
       "referrer": "",
       "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
       "number": "2028"
-    },
-    {
-      "id": "TVQuisqueya.us@SD",
-      "name": "TV Quisqueya (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8",
-      "number": "2029"
     },
     {
       "id": "TVEInternacionalAmerica.es@SD",
