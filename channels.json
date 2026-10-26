@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T09:19:48.970345+00:00",
+  "generated_at": "2026-10-26T09:24:07.631609+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -5610,15 +5610,6 @@
       "referrer": "",
       "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
       "number": "1411"
-    },
-    {
-      "id": "FoxBusinessNetwork.us@SD",
-      "name": "Fox Business Network (576p)",
-      "group": "Business",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
-      "number": "1412"
     },
     {
       "id": "FoxSoul.us@SD",
