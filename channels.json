@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T09:26:23.125534+00:00",
+  "generated_at": "2026-10-29T09:20:41.780812+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1866,15 +1866,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8",
       "number": "296"
-    },
-    {
-      "id": "CBSNews247.us@SD",
-      "name": "CBS News 24/7 (720p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
-      "number": "297"
     },
     {
       "id": "CBSNewsBaltimore.us@SD",
@@ -4703,42 +4694,6 @@
       "number": "1284"
     },
     {
-      "id": "CreaTVChannel15.us@SD",
-      "name": "CreaTV Channel 15 (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8",
-      "number": "1285"
-    },
-    {
-      "id": "CreaTVChannel27.us@SD",
-      "name": "CreaTV Channel 27 (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8",
-      "number": "1286"
-    },
-    {
-      "id": "CreaTVChannel28.us@SD",
-      "name": "CreaTV Channel 28 (720p)",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8",
-      "number": "1287"
-    },
-    {
-      "id": "CreaTVChannel30.us@SD",
-      "name": "CreaTV Channel 30 (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8",
-      "number": "1288"
-    },
-    {
       "id": "Crime360.us@SD",
       "name": "Crime 360 (720p)",
       "group": "Documentary",
@@ -6069,15 +6024,6 @@
       "referrer": "",
       "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
       "number": "1478"
-    },
-    {
-      "id": "HomeMadeNation.us@SD",
-      "name": "Home.Made.Nation (720p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8",
-      "number": "1479"
     },
     {
       "id": "Homeful.ca@US",
