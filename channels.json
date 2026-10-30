@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T09:20:41.780812+00:00",
+  "generated_at": "2026-10-30T09:23:12.869627+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1787,15 +1787,6 @@
       "number": "273"
     },
     {
-      "id": "ABC.us@WMARTV",
-      "name": "ABC WMAR-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8",
-      "number": "274"
-    },
-    {
       "id": "ABC.us@WFTV",
       "name": "ABC WFTV (720p)",
       "group": "General",
@@ -2685,15 +2676,6 @@
       "referrer": "",
       "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8",
       "number": "1031"
-    },
-    {
-      "id": "ABC.us@WMURTV",
-      "name": "ABC WMUR-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8",
-      "number": "1034"
     },
     {
       "id": "ABC.us@WSOCTV",
@@ -4037,15 +4019,6 @@
       "number": "1200"
     },
     {
-      "id": "CBS.us@KCCI",
-      "name": "CBS KCCI (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8",
-      "number": "1201"
-    },
-    {
       "id": "CBS.us@KIROTV",
       "name": "CBS KIRO-TV (1080p)",
       "group": "General",
@@ -4053,15 +4026,6 @@
       "referrer": "",
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8",
       "number": "1202"
-    },
-    {
-      "id": "CBS.us@KMTVTV",
-      "name": "CBS KMTV-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8",
-      "number": "1203"
     },
     {
       "id": "CBS.us@KWTVDT",
@@ -4559,15 +4523,6 @@
       "number": "1265"
     },
     {
-      "id": "CNNChile.cl@SD",
-      "name": "CNN Chile (1080p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.110.96.238:8000/play/a0f5/index.m3u8",
-      "number": "1266"
-    },
-    {
       "id": "CNNenEspanol.us@SD",
       "name": "CNN en Espanol (1080p)",
       "group": "News",
@@ -4953,15 +4908,6 @@
       "referrer": "",
       "url": "https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8",
       "number": "1318"
-    },
-    {
-      "id": "Degrassi.us@US",
-      "name": "Degrassi (720p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://d3537vnymvfque.cloudfront.net/playlist.m3u8",
-      "number": "1320"
     },
     {
       "id": "Denver8TV.us@SD",
@@ -5736,15 +5682,6 @@
       "referrer": "",
       "url": "https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8",
       "number": "1436"
-    },
-    {
-      "id": "GlobalBuddhistNetwork.us@SD",
-      "name": "Global Buddhist Network (1080p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8",
-      "number": "1438"
     },
     {
       "id": "GlobalFashionChannel.us@SD",
