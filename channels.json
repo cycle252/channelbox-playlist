@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T09:23:12.869627+00:00",
+  "generated_at": "2026-10-31T09:23:18.159369+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -2075,15 +2075,6 @@
       "number": "340"
     },
     {
-      "id": "News12NewYork.us@SD",
-      "name": "News12 New York (1080p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8",
-      "number": "341"
-    },
-    {
       "id": "News12Westchester.us@SD",
       "name": "News12 Westchester [Geo-blocked]",
       "group": "News",
@@ -2946,15 +2937,6 @@
       "referrer": "",
       "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
       "number": "1070"
-    },
-    {
-      "id": "AlientoVision.us@SD",
-      "name": "Aliento Vision (720p) [Not 24/7]",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
-      "number": "1072"
     },
     {
       "id": "AlkarmaTVAustralia.us@SD",
@@ -4955,15 +4937,6 @@
       "number": "1325"
     },
     {
-      "id": "DetroitChannel10.us@SD",
-      "name": "Detroit Channel 10",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8",
-      "number": "1326"
-    },
-    {
       "id": "DetroitChannel21.us@SD",
       "name": "Detroit Channel 21",
       "group": "General",
@@ -5412,15 +5385,6 @@
       "referrer": "",
       "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
       "number": "1391"
-    },
-    {
-      "id": "Fox.us@KCPQ",
-      "name": "Fox (United States) KCPQ (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8",
-      "number": "1392"
     },
     {
       "id": "Fox.us@KDFW",
@@ -7077,15 +7041,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8",
       "number": "1630"
-    },
-    {
-      "id": "MLBStrikeZone.us@SD",
-      "name": "MLB Strike Zone (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8",
-      "number": "1631"
     },
     {
       "id": "MNT.us@WFLD",
@@ -9347,15 +9302,6 @@
       "number": "1934"
     },
     {
-      "id": "TBNPacific.us@SD",
-      "name": "TBN Pacific",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8",
-      "number": "1936"
-    },
-    {
       "id": "TBNUkraine.us@SD",
       "name": "TBN Ukraine (720p)",
       "group": "Undefined",
@@ -10859,15 +10805,6 @@
       "number": "2145"
     },
     {
-      "id": "WWENetwork.us@SD",
-      "name": "WWE Network (1080p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://103.151.60.162:2122/play/a00p/index.m3u8?hls",
-      "number": "2146"
-    },
-    {
       "id": "XFCTV.us@SD",
       "name": "XFC TV (720p)",
       "group": "Sports",
@@ -11190,15 +11127,6 @@
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
       "number": "2194"
-    },
-    {
-      "id": "TheGrioTV.us@SD",
-      "name": "TheGrio TV (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8",
-      "number": "2195"
     }
   ]
 }
