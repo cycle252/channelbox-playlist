@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T09:23:18.159369+00:00",
+  "generated_at": "2026-11-01T10:23:12.771565+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -5279,15 +5279,6 @@
       "number": "1377"
     },
     {
-      "id": "FernandinaBeachChannel.us@SD",
-      "name": "Fernandina Beach Channel (720p) [Not 24/7]",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8",
-      "number": "1378"
-    },
-    {
       "id": "FierroaFondoTV.us@SD",
       "name": "Fierro a Fondo TV (1080p)",
       "group": "Auto",
@@ -9293,15 +9284,6 @@
       "number": "1931"
     },
     {
-      "id": "TBNArmenia.us@SD",
-      "name": "TBN Armenia",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8",
-      "number": "1934"
-    },
-    {
       "id": "TBNUkraine.us@SD",
       "name": "TBN Ukraine (720p)",
       "group": "Undefined",
@@ -10992,15 +10974,6 @@
       "referrer": "",
       "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
       "number": "2174"
-    },
-    {
-      "id": "LucasFriends.us@SD",
-      "name": "Lucas & Friends",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
-      "number": "2176"
     },
     {
       "id": "AmericanNinjaWarrior.us@SD",
