@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T10:23:12.771565+00:00",
+  "generated_at": "2026-11-02T10:20:37.400738+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -10769,15 +10769,6 @@
       "number": "2142"
     },
     {
-      "id": "WVCULP.us@SD",
-      "name": "WVCU-LP (1080p)",
-      "group": "Music",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
-      "number": "2144"
-    },
-    {
       "id": "WVVHCD181.us@HD",
       "name": "WVVH-CD 18.1 (720p)",
       "group": "Undefined",
@@ -11022,7 +11013,7 @@
     },
     {
       "id": "ComedyTV.us@SD",
-      "name": "Comedy TV (United States) (720p)",
+      "name": "Comedy.TV (720p)",
       "group": "Comedy",
       "user_agent": "",
       "referrer": "",
@@ -11031,8 +11022,8 @@
     },
     {
       "id": "ESTV.us@SD",
-      "name": "ESTV (United States) (720p)",
-      "group": "Sports",
+      "name": "ES.TV (720p)",
+      "group": "Entertainment",
       "user_agent": "",
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
@@ -11058,7 +11049,7 @@
     },
     {
       "id": "JusticeCentralTV.us@SD",
-      "name": "Justice Central TV (720p)",
+      "name": "Justice Central.TV (720p)",
       "group": "Entertainment",
       "user_agent": "",
       "referrer": "",
@@ -11094,8 +11085,8 @@
     },
     {
       "id": "RecipeTV.us@SD",
-      "name": "Recipe TV (720p)",
-      "group": "Undefined",
+      "name": "Recipe.TV (720p)",
+      "group": "Cooking",
       "user_agent": "",
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
