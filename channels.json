@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T10:20:37.400738+00:00",
+  "generated_at": "2026-11-03T10:20:38.889125+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -4974,11 +4974,11 @@
     },
     {
       "id": "DisneyChannel.us@East",
-      "name": "Disney Channel (United States) (720p) [Geo-blocked]",
+      "name": "Disney Channel (United States) (720p)",
       "group": "Kids",
       "user_agent": "",
       "referrer": "",
-      "url": "http://212.5.144.156/disney/index.m3u8",
+      "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
       "number": "1332"
     },
     {
@@ -7673,15 +7673,6 @@
       "number": "1721"
     },
     {
-      "id": "OCNTV.us@SD",
-      "name": "OCN TV",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
-      "number": "1723"
-    },
-    {
       "id": "Olelo49.us@SD",
       "name": "Olelo 49 (720p)",
       "group": "Legislative",
@@ -9833,15 +9824,6 @@
       "number": "2009"
     },
     {
-      "id": "Tooncast.us@SD",
-      "name": "Tooncast (1080p)",
-      "group": "Animation;Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
-      "number": "2010"
-    },
-    {
       "id": "ToonGoggles.us@SD",
       "name": "ToonGoggles (720p)",
       "group": "Kids",
@@ -10362,15 +10344,6 @@
       "referrer": "",
       "url": "https://d31z96rdrmwfsp.cloudfront.net/master.m3u8",
       "number": "2081"
-    },
-    {
-      "id": "VBSTV.us@SD",
-      "name": "VBS TV (480p) [Not 24/7]",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
-      "number": "2084"
     },
     {
       "id": "VegasLifeTV.us@HD",
