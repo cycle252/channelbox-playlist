@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-03T10:20:38.889125+00:00",
+  "generated_at": "2026-11-04T10:23:21.364305+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -813,6 +813,15 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
       "number": "117"
+    },
+    {
+      "id": "Gagsnetwork.us@SD",
+      "name": "Gagsnetwork (576p)",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://stream.mcquack.net/458/index.m3u8",
+      "number": "118"
     },
     {
       "id": "JustforLaughsGags.us@SD",
@@ -1859,6 +1868,15 @@
       "number": "296"
     },
     {
+      "id": "CBSNews247.us@SD",
+      "name": "CBS News 24/7 (720p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
+      "number": "297"
+    },
+    {
       "id": "CBSNewsBaltimore.us@SD",
       "name": "CBS News Baltimore (720p)",
       "group": "News",
@@ -2381,6 +2399,15 @@
       "number": "412"
     },
     {
+      "id": "Laff.us@SD",
+      "name": "Laff (576p)",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvsen7.aynascope.net/laff/index.m3u8",
+      "number": "413"
+    },
+    {
       "id": "Telemundo.us@WTMOCD",
       "name": "Telemundo WTMO-CD (720p)",
       "group": "General",
@@ -2523,15 +2550,6 @@
       "referrer": "",
       "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
       "number": "1014"
-    },
-    {
-      "id": "50CentAction.us@SD",
-      "name": "50 Cent Action (720p)",
-      "group": "Movies;Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
-      "number": "1015"
     },
     {
       "id": "90sKids.us@SD",
@@ -2786,15 +2804,6 @@
       "number": "1050"
     },
     {
-      "id": "Access19.us@SD",
-      "name": "Access 19",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8",
-      "number": "1051"
-    },
-    {
       "id": "AccessNashua.us@SD",
       "name": "Access Nashua (720p)",
       "group": "General",
@@ -2937,6 +2946,15 @@
       "referrer": "",
       "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
       "number": "1070"
+    },
+    {
+      "id": "AlientoVision.us@SD",
+      "name": "Aliento Vision (720p) [Not 24/7]",
+      "group": "Religious",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8",
+      "number": "1072"
     },
     {
       "id": "AlkarmaTVAustralia.us@SD",
@@ -4937,6 +4955,15 @@
       "number": "1325"
     },
     {
+      "id": "DetroitChannel10.us@SD",
+      "name": "Detroit Channel 10",
+      "group": "Legislative",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8",
+      "number": "1326"
+    },
+    {
       "id": "DetroitChannel21.us@SD",
       "name": "Detroit Channel 21",
       "group": "General",
@@ -4980,6 +5007,15 @@
       "referrer": "",
       "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
       "number": "1332"
+    },
+    {
+      "id": "DisneyJunior.us@East",
+      "name": "Disney Junior (United States) (480p)",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
+      "number": "1333"
     },
     {
       "id": "DistrictofColumbiaNetwork.us@SD",
@@ -5160,6 +5196,15 @@
       "referrer": "",
       "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
       "number": "1358"
+    },
+    {
+      "id": "ESPN.us@SD",
+      "name": "ESPN (United States) (432p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
+      "number": "1359"
     },
     {
       "id": "ESPNU.us@HD",
@@ -5495,6 +5540,24 @@
       "number": "1411"
     },
     {
+      "id": "FoxBusinessNetwork.us@SD",
+      "name": "Fox Business Network (576p)",
+      "group": "Business",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
+      "number": "1412"
+    },
+    {
+      "id": "FoxDeportes.us@SD",
+      "name": "Fox Deportes (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+      "number": "1413"
+    },
+    {
       "id": "FoxSoul.us@SD",
       "name": "Fox Soul (1080p)",
       "group": "Culture",
@@ -5630,6 +5693,15 @@
       "number": "1431"
     },
     {
+      "id": "GiggleMug.us@SD",
+      "name": "Giggle Mug (576p)",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen6.aynaott.com/ytv/index.m3u8",
+      "number": "1432"
+    },
+    {
       "id": "Glendale11AZ.us@SD",
       "name": "Glendale 11 AZ (360p)",
       "group": "Legislative",
@@ -5729,6 +5801,15 @@
       "number": "1450"
     },
     {
+      "id": "GunAzTV.us@SD",
+      "name": "GunAz TV",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tv.gunaz.tv/hls/live.m3u8",
+      "number": "1451"
+    },
+    {
       "id": "Gunsmoke.us@SD",
       "name": "Gunsmoke",
       "group": "Series",
@@ -5790,6 +5871,15 @@
       "referrer": "",
       "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
       "number": "1460"
+    },
+    {
+      "id": "HBOHits.us@East",
+      "name": "HBO Hits (720p)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+      "number": "1462"
     },
     {
       "id": "HBTV.us@SD",
@@ -5916,6 +6006,15 @@
       "referrer": "",
       "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
       "number": "1478"
+    },
+    {
+      "id": "HomeMadeNation.us@SD",
+      "name": "Home.Made.Nation (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-5dc1cb279c91420009db261d.m3u8",
+      "number": "1479"
     },
     {
       "id": "Homeful.ca@US",
@@ -9347,13 +9446,13 @@
       "number": "1944"
     },
     {
-      "id": "TelePam.us@SD",
-      "name": "Tele Pam (1080p)",
-      "group": "General",
+      "id": "TeenNick.us@East",
+      "name": "TeenNick (United States) (432p)",
+      "group": "Kids",
       "user_agent": "",
       "referrer": "",
-      "url": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
-      "number": "1946"
+      "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
+      "number": "1945"
     },
     {
       "id": "Telemundo.us@EastHD",
@@ -10346,6 +10445,15 @@
       "number": "2081"
     },
     {
+      "id": "VBSTV.us@SD",
+      "name": "VBS TV (480p) [Not 24/7]",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
+      "number": "2084"
+    },
+    {
       "id": "VegasLifeTV.us@HD",
       "name": "Vegas Life TV (1080p)",
       "group": "General",
@@ -10625,15 +10733,6 @@
       "number": "2127"
     },
     {
-      "id": "WHOHTV.us@SD",
-      "name": "WHOH-TV (360p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8",
-      "number": "2128"
-    },
-    {
       "id": "WildNOut.us@SD",
       "name": "Wild 'N Out",
       "group": "Series",
@@ -10641,6 +10740,15 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8",
       "number": "2129"
+    },
+    {
+      "id": "Willow.us@SD",
+      "name": "Willow (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "number": "2130"
     },
     {
       "id": "WillowSports.us@SD",
@@ -10740,6 +10848,15 @@
       "referrer": "",
       "url": "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
       "number": "2142"
+    },
+    {
+      "id": "WVCULP.us@SD",
+      "name": "WVCU-LP (1080p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8",
+      "number": "2144"
     },
     {
       "id": "WVVHCD181.us@HD",
@@ -10913,6 +11030,15 @@
       "number": "2170"
     },
     {
+      "id": "MSNOW.us@SD",
+      "name": "MS NOW (432p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
+      "number": "2171"
+    },
+    {
       "id": "WillametteFallsMediaCenter.us@SD",
       "name": "Willamette Falls Media Center",
       "group": "General",
@@ -10965,6 +11091,15 @@
       "referrer": "",
       "url": "https://hls.botflix.tv/tv/index.m3u8",
       "number": "2179"
+    },
+    {
+      "id": "FX.us@East",
+      "name": "FX (United States) (720p)",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen7.aynascope.net/fx/index.m3u8",
+      "number": "2181"
     },
     {
       "id": "FairgroundAICreatorTV.us@SD",
@@ -11064,6 +11199,42 @@
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
       "number": "2194"
+    },
+    {
+      "id": "TheGrioTV.us@SD",
+      "name": "TheGrio TV (720p)",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8",
+      "number": "2195"
+    },
+    {
+      "id": "NBC.us@WKYC",
+      "name": "NBC WKYC (1080p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://video.tegnaone.com/wkyc/live/v1/manifest/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC-Production/d39cf8a9-40a6-4cba-85f7-6c9d633843b3/2.m3u8",
+      "number": "2196"
+    },
+    {
+      "id": "HBCUGOSports.us@SD",
+      "name": "HBCU-GO Sports (720p)",
+      "group": "Sports",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8",
+      "number": "2197"
+    },
+    {
+      "id": "SonyMovies.us@SD",
+      "name": "Sony Movies (United States) (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
+      "number": "2198"
     }
   ]
 }
