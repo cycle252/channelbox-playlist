@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T10:23:12.815920+00:00",
+  "generated_at": "2026-11-07T10:23:16.644271+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -2067,7 +2067,7 @@
     },
     {
       "id": "News12NewJersey.us@SD",
-      "name": "News12 New Jersey [Geo-blocked]",
+      "name": "News12 New Jersey (1080p) [Geo-blocked]",
       "group": "News",
       "user_agent": "",
       "referrer": "",
@@ -2076,7 +2076,7 @@
     },
     {
       "id": "News12Westchester.us@SD",
-      "name": "News12 Westchester [Geo-blocked]",
+      "name": "News12 Westchester (1080p) [Geo-blocked]",
       "group": "News",
       "user_agent": "",
       "referrer": "",
@@ -4496,15 +4496,6 @@
       "number": "1273"
     },
     {
-      "id": "ConcertChannel.us@SD",
-      "name": "Concert Channel (720p)",
-      "group": "Music",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8",
-      "number": "1274"
-    },
-    {
       "id": "ConcordTV.us@SD",
       "name": "Concord TV (720p)",
       "group": "General",
@@ -4719,15 +4710,6 @@
       "referrer": "",
       "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch1/video.m3u8",
       "number": "1305"
-    },
-    {
-      "id": "CVTVChannel192.us@SD",
-      "name": "CVTV Channel 192 (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-      "number": "1306"
     },
     {
       "id": "CVTVChannel194.us@SD",
@@ -5475,15 +5457,6 @@
       "referrer": "",
       "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
       "number": "1412"
-    },
-    {
-      "id": "FoxDeportes.us@SD",
-      "name": "Fox Deportes (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "number": "1413"
     },
     {
       "id": "FoxSoul.us@SD",
@@ -6386,15 +6359,6 @@
       "number": "1545"
     },
     {
-      "id": "LA36.us@SD",
-      "name": "LA36 (1080p)",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8",
-      "number": "1547"
-    },
-    {
       "id": "LaVozdeJesusHD.do@HD",
       "name": "La Voz de Jesus HD (720p)",
       "group": "Religious",
@@ -7059,15 +7023,6 @@
       "referrer": "",
       "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
       "number": "1635"
-    },
-    {
-      "id": "MonroeCommunityMediaEducationChannel.us@SD",
-      "name": "Monroe Community Media Education Channel",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
-      "number": "1637"
     },
     {
       "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
@@ -9933,11 +9888,11 @@
     },
     {
       "id": "TVEInternacionalAmerica.es@SD",
-      "name": "TVE Internacional America (576p) [Geo-blocked]",
+      "name": "TVE Internacional America (720p)",
       "group": "Undefined",
       "user_agent": "",
       "referrer": "",
-      "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8",
+      "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
       "number": "2030"
     },
     {
