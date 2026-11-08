@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T10:23:16.644271+00:00",
+  "generated_at": "2026-11-08T10:22:12.142380+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "News12Brooklyn.us@SD",
-      "name": "News12 Brooklyn [Geo-blocked]",
+      "name": "News12 Brooklyn (720p) [Geo-blocked]",
       "group": "News",
       "user_agent": "",
       "referrer": "",
