@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-08T10:22:12.142380+00:00",
+  "generated_at": "2026-11-09T10:21:14.068401+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1373,15 +1373,6 @@
       "number": "201"
     },
     {
-      "id": "KRGVTV52.us@HD",
-      "name": "KRGV-TV 5.2 (720p) [Geo-blocked]",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8",
-      "number": "202"
-    },
-    {
       "id": "PBS.us@KVIE",
       "name": "PBS KVIE (1080p)",
       "group": "Education",
@@ -1893,15 +1884,6 @@
       "referrer": "",
       "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
       "number": "311"
-    },
-    {
-      "id": "DidgahTV.us@SD",
-      "name": "Didgah TV (576p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
-      "number": "312"
     },
     {
       "id": "EstrellaNews.us@SD",
@@ -5054,15 +5036,6 @@
       "number": "1350"
     },
     {
-      "id": "ElSembradorNuevaEvangelizacionESNE.us@SD",
-      "name": "El Sembrador Nueva Evangelizacion ESNE",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://190.61.90.17:40000/play/a025/index.m3u8",
-      "number": "1351"
-    },
-    {
       "id": "ElbesharaGTV.us@SD",
       "name": "Elbeshara GTV (1080p) [Not 24/7]",
       "group": "Religious",
@@ -5745,15 +5718,6 @@
       "referrer": "",
       "url": "https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8",
       "number": "1456"
-    },
-    {
-      "id": "HarvestUSA.in@SD",
-      "name": "Harvest USA (576p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "number": "1458"
     },
     {
       "id": "HasbroLegends.us@SD",
@@ -6492,15 +6456,6 @@
       "referrer": "",
       "url": "https://tgn.bozztv.com/lifevision/lifevision/index.m3u8",
       "number": "1566"
-    },
-    {
-      "id": "LittleGuyanaTV.us@SD",
-      "name": "Little Guyana TV (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8",
-      "number": "1567"
     },
     {
       "id": "LittleStarsUniverse.us@SD",
@@ -10857,15 +10812,6 @@
       "referrer": "",
       "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
       "number": "2171"
-    },
-    {
-      "id": "WillametteFallsMediaCenter.us@SD",
-      "name": "Willamette Falls Media Center",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/live.m3u8",
-      "number": "2172"
     },
     {
       "id": "ESPN.us@HD",
