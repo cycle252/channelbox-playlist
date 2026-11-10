@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T10:21:14.068401+00:00",
+  "generated_at": "2026-11-10T10:21:10.199316+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1499,15 +1499,6 @@
       "number": "228"
     },
     {
-      "id": "PeopleAreAwesome.us@SD",
-      "name": "People Are Awesome (1080p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8",
-      "number": "231"
-    },
-    {
       "id": "PlutoTVGameShows.us@SD",
       "name": "Pluto TV Game Shows",
       "group": "Entertainment",
@@ -2343,15 +2334,6 @@
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live2/greattv_720p/playlist.m3u8",
       "number": "412"
-    },
-    {
-      "id": "Laff.us@SD",
-      "name": "Laff (576p)",
-      "group": "Comedy",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen7.aynascope.net/laff/index.m3u8",
-      "number": "413"
     },
     {
       "id": "Telemundo.us@WTMOCD",
@@ -4901,15 +4883,6 @@
       "number": "1332"
     },
     {
-      "id": "DisneyJunior.us@East",
-      "name": "Disney Junior (United States) (480p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
-      "number": "1333"
-    },
-    {
       "id": "DistrictofColumbiaNetwork.us@SD",
       "name": "District of Columbia Network (1080p)",
       "group": "Legislative",
@@ -5081,15 +5054,6 @@
       "number": "1358"
     },
     {
-      "id": "ESPN.us@SD",
-      "name": "ESPN (United States) (432p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen7.aynascope.net/espn/index.m3u8",
-      "number": "1359"
-    },
-    {
       "id": "ESPNU.us@HD",
       "name": "ESPNU HD (720p)",
       "group": "Sports",
@@ -5097,15 +5061,6 @@
       "referrer": "",
       "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
       "number": "1362"
-    },
-    {
-      "id": "EstrellaTV.us@WMBCTV",
-      "name": "Estrella TV WMBC-TV (720p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8",
-      "number": "1364"
     },
     {
       "id": "EWTN.us@English",
@@ -5540,15 +5495,6 @@
       "number": "1427"
     },
     {
-      "id": "GEBNetwork.us@KBPXLD",
-      "name": "GEB Network KBPX-LD (1080p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8",
-      "number": "1429"
-    },
-    {
       "id": "GemShoppingNetwork.us@SD",
       "name": "Gem Shopping Network (720p)",
       "group": "Shop",
@@ -5736,15 +5682,6 @@
       "referrer": "",
       "url": "https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8",
       "number": "1460"
-    },
-    {
-      "id": "HBOHits.us@East",
-      "name": "HBO Hits (720p)",
-      "group": "Movies;Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
-      "number": "1462"
     },
     {
       "id": "HBTV.us@SD",
@@ -6971,15 +6908,6 @@
       "number": "1634"
     },
     {
-      "id": "MNT.us@WWORTV",
-      "name": "MNT WWOR-TV",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts",
-      "number": "1635"
-    },
-    {
       "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
       "name": "Monroe Community Media Public Access Channel",
       "group": "General",
@@ -7593,11 +7521,11 @@
     },
     {
       "id": "OnTV4U.us@SD",
-      "name": "OnTV4U (1080p) [Geo-blocked]",
+      "name": "OnTV4U (1080p)",
       "group": "Shop",
       "user_agent": "",
       "referrer": "",
-      "url": "https://stirr.b-cdn.net/stirr/playlist.m3u8",
+      "url": "https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8",
       "number": "1728"
     },
     {
@@ -9221,15 +9149,6 @@
       "number": "1944"
     },
     {
-      "id": "TeenNick.us@East",
-      "name": "TeenNick (United States) (432p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
-      "number": "1945"
-    },
-    {
       "id": "Telemundo.us@EastHD",
       "name": "Telemundo East HD (1080p)",
       "group": "General",
@@ -10517,15 +10436,6 @@
       "number": "2129"
     },
     {
-      "id": "Willow.us@SD",
-      "name": "Willow (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-      "number": "2130"
-    },
-    {
       "id": "WillowSports.us@SD",
       "name": "Willow Sports (1080p)",
       "group": "Sports",
@@ -10857,15 +10767,6 @@
       "referrer": "",
       "url": "https://hls.botflix.tv/tv/index.m3u8",
       "number": "2179"
-    },
-    {
-      "id": "FX.us@East",
-      "name": "FX (United States) (720p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen7.aynascope.net/fx/index.m3u8",
-      "number": "2181"
     },
     {
       "id": "FairgroundAICreatorTV.us@SD",
