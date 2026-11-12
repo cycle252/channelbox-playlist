@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T10:23:57.386566+00:00",
+  "generated_at": "2026-11-12T10:23:37.793809+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -174,15 +174,6 @@
       "referrer": "",
       "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
       "number": "16"
-    },
-    {
-      "id": "30ATVClassicMovies.us@SD",
-      "name": "30A TV Classic Movies (720p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
-      "number": "17"
     },
     {
       "id": "70sCinema.us@SD",
@@ -696,15 +687,6 @@
       "referrer": "",
       "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
       "number": "101"
-    },
-    {
-      "id": "30ARidiculousTV.us@SD",
-      "name": "30A Ridiculous TV (720p)",
-      "group": "Comedy",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://30a-tv.com/feeds/720p/63.m3u8",
-      "number": "102"
     },
     {
       "id": "BETThrowbacks.us@SD",
@@ -1941,11 +1923,11 @@
     },
     {
       "id": "LiveNOWfromFOX.us@SD",
-      "name": "LiveNOW from FOX (720p)",
+      "name": "LiveNOW from FOX (1080p)",
       "group": "News",
       "user_agent": "",
       "referrer": "",
-      "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+      "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8",
       "number": "324"
     },
     {
@@ -2161,7 +2143,7 @@
       "group": "News",
       "user_agent": "",
       "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
+      "url": "https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8",
       "number": "357"
     },
     {
@@ -3876,11 +3858,11 @@
     },
     {
       "id": "CartoonNetwork.us@East",
-      "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
+      "name": "Cartoon Network (United States) [Not 24/7;Geo-blocked]",
       "group": "Animation;Kids",
       "user_agent": "",
       "referrer": "",
-      "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8",
       "number": "1195"
     },
     {
@@ -4883,15 +4865,6 @@
       "number": "1328"
     },
     {
-      "id": "DetroitChannel68.us@SD",
-      "name": "Detroit Channel 68",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8",
-      "number": "1329"
-    },
-    {
       "id": "DiscoveryChannel.us@East",
       "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
       "group": "Entertainment",
@@ -5469,11 +5442,11 @@
     },
     {
       "id": "FoxWeather.us@SD",
-      "name": "Fox Weather (720p)",
+      "name": "Fox Weather (1080p)",
       "group": "Weather",
       "user_agent": "",
       "referrer": "",
-      "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+      "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
       "number": "1416"
     },
     {
@@ -5583,15 +5556,6 @@
       "referrer": "",
       "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8",
       "number": "1431"
-    },
-    {
-      "id": "GiggleMug.us@SD",
-      "name": "Giggle Mug (576p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
-      "number": "1432"
     },
     {
       "id": "Glendale11AZ.us@SD",
@@ -10767,15 +10731,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8",
       "number": "2157"
-    },
-    {
-      "id": "YouDotGov.us@SD",
-      "name": "YouDotGov (1080p)",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8",
-      "number": "2158"
     },
     {
       "id": "YuGiOhenespanol.us@SD",
