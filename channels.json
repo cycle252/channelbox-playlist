@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T10:23:37.793809+00:00",
+  "generated_at": "2026-11-13T10:23:21.582551+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -3633,7 +3633,7 @@
     },
     {
       "id": "Boomerang.us@SD",
-      "name": "Boomerang (720p)",
+      "name": "Boomerang (United States) (720p)",
       "group": "Kids",
       "user_agent": "",
       "referrer": "",
@@ -3738,15 +3738,6 @@
       "referrer": "",
       "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
       "number": "1181"
-    },
-    {
-      "id": "BXInform.us@SD",
-      "name": "BX Inform (1080p)",
-      "group": "General;News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
-      "number": "1182"
     },
     {
       "id": "BXInspire.us@SD",
@@ -8598,15 +8589,6 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8",
       "number": "1870"
-    },
-    {
-      "id": "ScreenDreams.us@SD",
-      "name": "Screen Dreams (720p)",
-      "group": "Relax",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240",
-      "number": "1871"
     },
     {
       "id": "SCVTV.us@SD",
