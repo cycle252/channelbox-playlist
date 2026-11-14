@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T10:23:21.582551+00:00",
+  "generated_at": "2026-11-14T10:23:52.440278+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1992,15 +1992,6 @@
       "referrer": "",
       "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8",
       "number": "334"
-    },
-    {
-      "id": "News12Bronx.us@SD",
-      "name": "News12 Bronx (1080p) [Geo-blocked]",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
-      "number": "335"
     },
     {
       "id": "News12Brooklyn.us@SD",
