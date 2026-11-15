@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T10:23:52.440278+00:00",
+  "generated_at": "2026-11-15T10:23:30.596840+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1185,7 +1185,7 @@
     },
     {
       "id": "E.us@East",
-      "name": "E! East (1080p)",
+      "name": "E! (United States) East (1080p)",
       "group": "Entertainment",
       "user_agent": "",
       "referrer": "",
@@ -4811,15 +4811,6 @@
       "number": "1324"
     },
     {
-      "id": "DestinationAmerica.us@SD",
-      "name": "Destination America (720p)",
-      "group": "Travel",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
-      "number": "1325"
-    },
-    {
       "id": "DetroitChannel10.us@SD",
       "name": "Detroit Channel 10",
       "group": "Legislative",
@@ -7620,7 +7611,7 @@
     },
     {
       "id": "ParamountNetwork.us@East",
-      "name": "Paramount Network (1080p)",
+      "name": "Paramount Network (United States) (1080p)",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -8643,15 +8634,6 @@
       "referrer": "",
       "url": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8",
       "number": "1881"
-    },
-    {
-      "id": "ShemarooBollywood.us@SD",
-      "name": "Shemaroo Bollywood (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-      "number": "1882"
     },
     {
       "id": "ShoutFactoryTV.us@SD",
