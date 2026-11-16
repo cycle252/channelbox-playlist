@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T10:23:30.596840+00:00",
+  "generated_at": "2026-11-16T10:23:18.207810+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1290,15 +1290,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8",
       "number": "191"
-    },
-    {
-      "id": "ImpactNetwork.us@SD",
-      "name": "Impact Network (720p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8",
-      "number": "192"
     },
     {
       "id": "IONTV.us@East",
@@ -4215,15 +4206,6 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8",
       "number": "1244"
-    },
-    {
-      "id": "CityTVWhittier.us@SD",
-      "name": "CityTV Whittier (720p)",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://whittier.cablecast.tv/live/stream-1/live.m3u8",
-      "number": "1245"
     },
     {
       "id": "Clarity4K.us@SD",
@@ -7664,15 +7646,6 @@
       "number": "1746"
     },
     {
-      "id": "PBCTapeshTV.us@SD",
-      "name": "PBC Tapesh TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
-      "number": "1747"
-    },
-    {
       "id": "PBCTVChannel20.us@SD",
       "name": "PBC TV Channel 20 (720p)",
       "group": "Legislative",
@@ -8256,15 +8229,6 @@
       "referrer": "",
       "url": "https://dt9mwqwe98q7o.cloudfront.net/master.m3u8",
       "number": "1824"
-    },
-    {
-      "id": "RallyTV.us@SD",
-      "name": "Rally TV (1080p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
-      "number": "1825"
     },
     {
       "id": "Rawhide.us@SD",
@@ -9768,15 +9732,6 @@
       "referrer": "",
       "url": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8",
       "number": "2029"
-    },
-    {
-      "id": "TVEInternacionalAmerica.es@SD",
-      "name": "TVE Internacional America (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://barinaslive1.boldmss.com/TVE/TVE.isml/index.m3u8",
-      "number": "2030"
     },
     {
       "id": "TVEInternacionalAmerica.es@HD",
