@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T10:23:18.207810+00:00",
+  "generated_at": "2026-11-17T10:23:29.975458+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -3227,15 +3227,6 @@
       "number": "1121"
     },
     {
-      "id": "BabyFirst.us@Spanish",
-      "name": "BabyFirst Spanish (1080p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://168.196.127.137:6001/play/a06j/index.m3u8",
-      "number": "1122"
-    },
-    {
       "id": "Backstage.us@SD",
       "name": "Backstage (1080p)",
       "group": "Documentary",
@@ -5007,15 +4998,6 @@
       "referrer": "",
       "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506",
       "number": "1355"
-    },
-    {
-      "id": "ESNETV.us@SD",
-      "name": "ESNE TV (720p)",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://168.196.127.137:6001/play/a071/index.m3u8",
-      "number": "1357"
     },
     {
       "id": "ESPN2.us@SD",
@@ -7610,15 +7592,6 @@
       "number": "1742"
     },
     {
-      "id": "PascoTV.us@SD",
-      "name": "Pasco TV (480p)",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
-      "number": "1743"
-    },
-    {
       "id": "PayamJavanTV.us@SD",
       "name": "Payam Javan TV (720p) [Not 24/7]",
       "group": "Education",
@@ -8553,15 +8526,6 @@
       "referrer": "",
       "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
       "number": "1873"
-    },
-    {
-      "id": "SemillitasTV.us@SD",
-      "name": "Semillitas TV (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://168.196.127.137:6001/play/a04y/index.m3u8",
-      "number": "1874"
     },
     {
       "id": "SFGovTV2.us@SD",
@@ -9572,15 +9536,6 @@
       "number": "2009"
     },
     {
-      "id": "Tooncast.us@SD",
-      "name": "Tooncast (1080p)",
-      "group": "Animation;Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
-      "number": "2010"
-    },
-    {
       "id": "ToonGoggles.us@SD",
       "name": "ToonGoggles (720p)",
       "group": "Kids",
@@ -9669,15 +9624,6 @@
       "referrer": "",
       "url": "https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8",
       "number": "2021"
-    },
-    {
-      "id": "TSTV.us@SD",
-      "name": "TSTV (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflector.watchtstv.com/hls/livestream.m3u8",
-      "number": "2022"
     },
     {
       "id": "TUDN.us@SD",
