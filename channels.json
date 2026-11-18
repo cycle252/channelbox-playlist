@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T10:23:29.975458+00:00",
+  "generated_at": "2026-11-18T10:26:18.070826+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -174,6 +174,15 @@
       "referrer": "",
       "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
       "number": "16"
+    },
+    {
+      "id": "30ATVClassicMovies.us@SD",
+      "name": "30A TV Classic Movies (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+      "number": "17"
     },
     {
       "id": "70sCinema.us@SD",
@@ -687,6 +696,15 @@
       "referrer": "",
       "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
       "number": "101"
+    },
+    {
+      "id": "30ARidiculousTV.us@SD",
+      "name": "30A Ridiculous TV (720p)",
+      "group": "Comedy",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://30a-tv.com/feeds/720p/63.m3u8",
+      "number": "102"
     },
     {
       "id": "BETThrowbacks.us@SD",
@@ -1634,6 +1652,15 @@
       "number": "250"
     },
     {
+      "id": "TurismoHD.do@HD",
+      "name": "Turismo HD (720p) [Not 24/7]",
+      "group": "Entertainment",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208343/playlist.m3u8",
+      "number": "251"
+    },
+    {
       "id": "TVSFlashbackNetwork.us@SD",
       "name": "TVS Flashback Network (360p)",
       "group": "Entertainment",
@@ -1769,15 +1796,6 @@
       "number": "291"
     },
     {
-      "id": "AmericasVoiceNews.us@SD",
-      "name": "America's Voice News (720p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
-      "number": "292"
-    },
-    {
       "id": "AmuTV.us@SD",
       "name": "Amu TV",
       "group": "News",
@@ -1859,6 +1877,15 @@
       "number": "311"
     },
     {
+      "id": "DidgahTV.us@SD",
+      "name": "Didgah TV (576p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8",
+      "number": "312"
+    },
+    {
       "id": "EstrellaNews.us@SD",
       "name": "Estrella News (1080p)",
       "group": "News",
@@ -1902,6 +1929,15 @@
       "referrer": "",
       "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8",
       "number": "320"
+    },
+    {
+      "id": "OANPlus.us@KPVMLD",
+      "name": "OAN Plus KPVM-LD (1080p)",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8",
+      "number": "321"
     },
     {
       "id": "RealAmericasVoice.us@KPVMLD",
@@ -1983,6 +2019,15 @@
       "referrer": "",
       "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8",
       "number": "334"
+    },
+    {
+      "id": "News12Bronx.us@SD",
+      "name": "News12 Bronx (1080p) [Geo-blocked]",
+      "group": "News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https",
+      "number": "335"
     },
     {
       "id": "News12Brooklyn.us@SD",
@@ -2435,6 +2480,15 @@
       "number": "1011"
     },
     {
+      "id": "30AMusic.us@SD",
+      "name": "30A Music (720p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://30a-tv.com/music.m3u8",
+      "number": "1012"
+    },
+    {
       "id": "30ATheBeachShow.us@SD",
       "name": "30A The Beach Show (720p)",
       "group": "Shop",
@@ -2451,6 +2505,15 @@
       "referrer": "",
       "url": "https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8",
       "number": "1014"
+    },
+    {
+      "id": "50CentAction.us@SD",
+      "name": "50 Cent Action (720p)",
+      "group": "Movies;Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
+      "number": "1015"
     },
     {
       "id": "90sKids.us@SD",
@@ -2696,6 +2759,15 @@
       "number": "1050"
     },
     {
+      "id": "Access19.us@SD",
+      "name": "Access 19",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8",
+      "number": "1051"
+    },
+    {
       "id": "AccessNashua.us@SD",
       "name": "Access Nashua (720p)",
       "group": "General",
@@ -2829,6 +2901,15 @@
       "referrer": "",
       "url": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
       "number": "1068"
+    },
+    {
+      "id": "AlMahdiTV.us@SD",
+      "name": "Al-Mahdi TV (1080p)",
+      "group": "Religious",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://iptv.almahditv.com/almahditv/playlist.m3u8",
+      "number": "1070"
     },
     {
       "id": "AlientoVision.us@SD",
@@ -3207,6 +3288,15 @@
       "referrer": "",
       "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8",
       "number": "1118"
+    },
+    {
+      "id": "AXSTV.us@SD",
+      "name": "AXS TV (576p)",
+      "group": "Music",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
+      "number": "1119"
     },
     {
       "id": "BabySharkTV.us@SD",
@@ -3711,6 +3801,15 @@
       "referrer": "",
       "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8",
       "number": "1181"
+    },
+    {
+      "id": "BXInform.us@SD",
+      "name": "BX Inform (1080p)",
+      "group": "General;News",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8",
+      "number": "1182"
     },
     {
       "id": "BXInspire.us@SD",
@@ -4784,6 +4883,15 @@
       "number": "1324"
     },
     {
+      "id": "DestinationAmerica.us@SD",
+      "name": "Destination America (720p)",
+      "group": "Travel",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+      "number": "1325"
+    },
+    {
       "id": "DetroitChannel10.us@SD",
       "name": "Detroit Channel 10",
       "group": "Legislative",
@@ -4845,6 +4953,15 @@
       "referrer": "",
       "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
       "number": "1335"
+    },
+    {
+      "id": "DiyaTV.us@SD",
+      "name": "Diya TV (1080p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://stream.diyatvinc.com/diya.m3u8",
+      "number": "1336"
     },
     {
       "id": "DKN.us@SD",
@@ -5495,6 +5612,15 @@
       "number": "1431"
     },
     {
+      "id": "GiggleMug.us@SD",
+      "name": "Giggle Mug (576p)",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
+      "number": "1432"
+    },
+    {
       "id": "Glendale11AZ.us@SD",
       "name": "Glendale 11 AZ (360p)",
       "group": "Legislative",
@@ -5520,15 +5646,6 @@
       "referrer": "",
       "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8",
       "number": "1441"
-    },
-    {
-      "id": "GolazoNetwork.us@SD",
-      "name": "Golazo Network (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
-      "number": "1442"
     },
     {
       "id": "GoodLife45.us@SD",
@@ -5673,15 +5790,6 @@
       "referrer": "",
       "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8",
       "number": "1465"
-    },
-    {
-      "id": "HCTVGovernmentChannel.us@SD",
-      "name": "HCTV Government Channel",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8",
-      "number": "1466"
     },
     {
       "id": "HCTVPublicAccessChannel.us@SD",
@@ -6242,6 +6350,15 @@
       "number": "1545"
     },
     {
+      "id": "LaVozdeJesusHD.do@HD",
+      "name": "La Voz de Jesus HD (720p) [Not 24/7]",
+      "group": "Religious",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8",
+      "number": "1550"
+    },
+    {
       "id": "LacrosseTV.us@SD",
       "name": "Lacrosse TV (720p)",
       "group": "Sports",
@@ -6258,15 +6375,6 @@
       "referrer": "",
       "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8",
       "number": "1552"
-    },
-    {
-      "id": "LasVegasTonightwithDaleDavidson.us@HD",
-      "name": "Las Vegas Tonight with Dale Davidson (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8",
-      "number": "1555"
     },
     {
       "id": "LatinoChannelTV.us@HD",
@@ -6618,6 +6726,51 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8",
       "number": "1600"
+    },
+    {
+      "id": "Maxcine2.us@HD",
+      "name": "Maxcine 2 (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8",
+      "number": "1601"
+    },
+    {
+      "id": "Maxcine.us@HD",
+      "name": "Maxcine (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8",
+      "number": "1602"
+    },
+    {
+      "id": "MaxcineComedy.us@HD",
+      "name": "Maxcine Comedy (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8",
+      "number": "1603"
+    },
+    {
+      "id": "MaxcineFamily.us@HD",
+      "name": "Maxcine Family (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8",
+      "number": "1604"
+    },
+    {
+      "id": "MaxcineKids.us@HD",
+      "name": "Maxcine Kids (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8",
+      "number": "1605"
     },
     {
       "id": "MBC1USA.us@SD",
@@ -7592,6 +7745,15 @@
       "number": "1742"
     },
     {
+      "id": "PascoTV.us@SD",
+      "name": "Pasco TV (480p)",
+      "group": "Legislative",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8",
+      "number": "1743"
+    },
+    {
       "id": "PayamJavanTV.us@SD",
       "name": "Payam Javan TV (720p) [Not 24/7]",
       "group": "Education",
@@ -7617,6 +7779,15 @@
       "referrer": "",
       "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
       "number": "1746"
+    },
+    {
+      "id": "PBCTapeshTV.us@SD",
+      "name": "PBC Tapesh TV (720p)",
+      "group": "General",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+      "number": "1747"
     },
     {
       "id": "PBCTVChannel20.us@SD",
@@ -9527,6 +9698,15 @@
       "number": "2007"
     },
     {
+      "id": "TomAndJerry.do@HD",
+      "name": "Tom And Jerry (720p) [Not 24/7]",
+      "group": "Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://183.giatvcdn.com/giatvplayout7/giatv-208314/playlist.m3u8",
+      "number": "2008"
+    },
+    {
       "id": "ToonamiAftermath.us@West",
       "name": "Toonami Aftermath West (480p)",
       "group": "Animation",
@@ -9534,6 +9714,15 @@
       "referrer": "",
       "url": "http://api.toonamiaftermath.com:3000/pst/playlist.m3u8",
       "number": "2009"
+    },
+    {
+      "id": "Tooncast.us@SD",
+      "name": "Tooncast (1080p)",
+      "group": "Animation;Kids",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+      "number": "2010"
     },
     {
       "id": "ToonGoggles.us@SD",
@@ -10270,7 +10459,7 @@
       "group": "Weather",
       "user_agent": "",
       "referrer": "",
-      "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+      "url": "https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8",
       "number": "2118"
     },
     {
@@ -10396,7 +10585,7 @@
       "group": "Undefined",
       "user_agent": "",
       "referrer": "",
-      "url": "https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8",
+      "url": "https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8",
       "number": "2133"
     },
     {
@@ -10931,13 +11120,58 @@
       "number": "2212"
     },
     {
-      "id": "TomSingsTV.us@HD",
-      "name": "Tom Sings TV (1080p)",
-      "group": "Kids",
+      "id": "CartoonNetwork.us@West",
+      "name": "Cartoon Network (United States) West (1080p) [Geo-blocked]",
+      "group": "Animation;Kids",
       "user_agent": "",
-      "referrer": "https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4",
-      "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
-      "number": "2213"
+      "referrer": "",
+      "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
+      "number": "2214"
+    },
+    {
+      "id": "ScaresbyShudder.us@SD",
+      "name": "Scares by Shudder (1080p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8",
+      "number": "2215"
+    },
+    {
+      "id": "StarAction.us@SD",
+      "name": "Star Action (720p)",
+      "group": "Movies",
+      "user_agent": "",
+      "referrer": "",
+      "url": "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8",
+      "number": "2217"
+    },
+    {
+      "id": "TheGrioTV.us@FAST",
+      "name": "TheGrio TV FAST (1080p)",
+      "group": "Undefined",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8",
+      "number": "2218"
+    },
+    {
+      "id": "OnPatrolLive.us@HD",
+      "name": "On Patrol: Live (720p)",
+      "group": "Series",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8",
+      "number": "2220"
+    },
+    {
+      "id": "ReelzFamousInfamous.us@HD",
+      "name": "Reelz Famous & Infamous (1080p)",
+      "group": "Documentary",
+      "user_agent": "",
+      "referrer": "",
+      "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
+      "number": "2221"
     }
   ]
 }
