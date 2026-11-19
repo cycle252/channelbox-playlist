@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T10:26:18.070826+00:00",
+  "generated_at": "2026-11-19T10:21:02.763156+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -4370,15 +4370,6 @@
       "number": "1253"
     },
     {
-      "id": "CMAC2.us@SD",
-      "name": "CMAC 2 (720p)",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8",
-      "number": "1254"
-    },
-    {
       "id": "CMAC3.us@SD",
       "name": "CMAC 3 (720p)",
       "group": "Legislative",
@@ -5871,15 +5862,6 @@
       "referrer": "",
       "url": "https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8",
       "number": "1476"
-    },
-    {
-      "id": "HmongTVNetwork.us@SD",
-      "name": "Hmong TV Network (720p)",
-      "group": "Culture",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8",
-      "number": "1477"
     },
     {
       "id": "HollyWire.us@SD",
@@ -8744,15 +8726,6 @@
       "number": "1884"
     },
     {
-      "id": "ShowtimeFamilyZone.us@East",
-      "name": "Showtime Family Zone (720p)",
-      "group": "Family",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8",
-      "number": "1885"
-    },
-    {
       "id": "SkwadPlay.us@SD",
       "name": "Skwad Play (1080p)",
       "group": "Kids",
@@ -9141,7 +9114,7 @@
     },
     {
       "id": "TBNArmenia.us@SD",
-      "name": "TBN Armenia",
+      "name": "TBN Armenia (1080p)",
       "group": "Undefined",
       "user_agent": "",
       "referrer": "",
@@ -9390,15 +9363,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8",
       "number": "1971"
-    },
-    {
-      "id": "TheChatShowChannel.uk@SD",
-      "name": "The Chat Show Channel (1080p)",
-      "group": "Comedy;Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8",
-      "number": "1972"
     },
     {
       "id": "TheCityofMarina.us@SD",
