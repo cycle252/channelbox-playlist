@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T10:20:42.895880+00:00",
+  "generated_at": "2026-11-21T10:20:43.049501+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -528,7 +528,7 @@
     },
     {
       "id": "PlutoTVAction.us@US",
-      "name": "Pluto TV Action (United States)",
+      "name": "Pluto TV Action",
       "group": "Movies",
       "user_agent": "",
       "referrer": "",
@@ -645,7 +645,7 @@
     },
     {
       "id": "PlutoTVWesterns.us@US",
-      "name": "Pluto TV Westerns (United States)",
+      "name": "Pluto TV Westerns",
       "group": "Movies",
       "user_agent": "",
       "referrer": "",
@@ -879,7 +879,7 @@
     },
     {
       "id": "Ridiculousness.us@SD",
-      "name": "Ridiculousness (United States)",
+      "name": "Ridiculousness",
       "group": "Comedy",
       "user_agent": "",
       "referrer": "",
@@ -1104,7 +1104,7 @@
     },
     {
       "id": "CarChase.us@SD",
-      "name": "Car Chase (United States) (720p)",
+      "name": "Car Chase (720p)",
       "group": "Entertainment",
       "user_agent": "",
       "referrer": "",
@@ -1643,15 +1643,6 @@
       "number": "248"
     },
     {
-      "id": "TMZ.us@SD",
-      "name": "TMZ (720p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/57c1fa3c-566b-4998-b6de-d6de67031d99/index.m3u8",
-      "number": "249"
-    },
-    {
       "id": "ToughJobs.us@SD",
       "name": "Tough Jobs",
       "group": "Entertainment",
@@ -1965,15 +1956,6 @@
       "referrer": "",
       "url": "https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8",
       "number": "324"
-    },
-    {
-      "id": "NBC.us@WGAL",
-      "name": "NBC WGAL (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8",
-      "number": "326"
     },
     {
       "id": "NBCNewsNOW.us@SD",
@@ -2597,15 +2579,6 @@
       "number": "1023"
     },
     {
-      "id": "ABC.us@KOATTV",
-      "name": "ABC KOAT-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8",
-      "number": "1024"
-    },
-    {
       "id": "ABC.us@KRGVTV",
       "name": "ABC KRGV-TV (720p)",
       "group": "General",
@@ -2649,15 +2622,6 @@
       "referrer": "",
       "url": "https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8",
       "number": "1030"
-    },
-    {
-      "id": "ABC.us@WISNTV",
-      "name": "ABC WISN-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8",
-      "number": "1031"
     },
     {
       "id": "ABC.us@WSOCTV",
@@ -4614,7 +4578,7 @@
     },
     {
       "id": "CSI.us@SD",
-      "name": "CSI (United States)",
+      "name": "CSI",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -5154,7 +5118,7 @@
     },
     {
       "id": "FamilyTies.us@SD",
-      "name": "Family Ties (United States)",
+      "name": "Family Ties",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -5639,15 +5603,6 @@
       "number": "1443"
     },
     {
-      "id": "GordonRamsaysHellsKitchen.us@SD",
-      "name": "Gordon Ramsay's Hell's Kitchen (720p)",
-      "group": "Cooking",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8",
-      "number": "1444"
-    },
-    {
       "id": "GospelTruthTV.us@SD",
       "name": "Gospel Truth TV (1080p)",
       "group": "Religious",
@@ -5712,7 +5667,7 @@
     },
     {
       "id": "HappyDays.us@SD",
-      "name": "Happy Days (United States)",
+      "name": "Happy Days",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -5982,7 +5937,7 @@
     },
     {
       "id": "iCarly.us@SD",
-      "name": "iCarly (United States) SD",
+      "name": "iCarly SD",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -6108,7 +6063,7 @@
     },
     {
       "id": "JerseyShore.us@SD",
-      "name": "Jersey Shore (United States)",
+      "name": "Jersey Shore",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -6150,15 +6105,6 @@
       "referrer": "",
       "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8",
       "number": "1513"
-    },
-    {
-      "id": "JohnnyCarsonTV.us@SD",
-      "name": "Johnny Carson TV (720p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8",
-      "number": "1514"
     },
     {
       "id": "Journy.us@SD",
@@ -6693,7 +6639,7 @@
     },
     {
       "id": "Matlock.us@SD",
-      "name": "Matlock (United States)",
+      "name": "Matlock",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -6927,7 +6873,7 @@
     },
     {
       "id": "MissionImpossible.us@SD",
-      "name": "Mission Impossible (United States)",
+      "name": "Mission Impossible",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -7196,15 +7142,6 @@
       "number": "1667"
     },
     {
-      "id": "NBC.us@KSBW",
-      "name": "NBC KSBW (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8",
-      "number": "1668"
-    },
-    {
       "id": "NBC.us@KSBY",
       "name": "NBC KSBY (1080p)",
       "group": "General",
@@ -7230,15 +7167,6 @@
       "referrer": "",
       "url": "https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL",
       "number": "1672"
-    },
-    {
-      "id": "NBC.us@WBALTV",
-      "name": "NBC WBAL-TV (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8",
-      "number": "1673"
     },
     {
       "id": "NBC.us@WBTSCD",
@@ -8034,7 +7962,7 @@
     },
     {
       "id": "PlutoTVHorror.us@US",
-      "name": "Pluto TV Horror (United States)",
+      "name": "Pluto TV Horror",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -8097,7 +8025,7 @@
     },
     {
       "id": "PlutoTVParanormal.us@US",
-      "name": "Pluto TV Paranormal (United States)",
+      "name": "Pluto TV Paranormal",
       "group": "Documentary",
       "user_agent": "",
       "referrer": "",
@@ -8124,7 +8052,7 @@
     },
     {
       "id": "PlutoTVSciFi.us@US",
-      "name": "Pluto TV Sci-Fi (United States)",
+      "name": "Pluto TV Sci-Fi",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -8160,7 +8088,7 @@
     },
     {
       "id": "PlutoTVTrueCrime.us@US",
-      "name": "Pluto TV True Crime (United States)",
+      "name": "Pluto TV True Crime",
       "group": "Documentary;Series",
       "user_agent": "",
       "referrer": "",
@@ -8331,21 +8259,12 @@
     },
     {
       "id": "Rawhide.us@SD",
-      "name": "Rawhide (United States)",
+      "name": "Rawhide",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
       "url": "https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8",
       "number": "1826"
-    },
-    {
-      "id": "RCTV3.us@SD",
-      "name": "RCTV3 (480p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8",
-      "number": "1827"
     },
     {
       "id": "RCTV.us@SD",
@@ -8763,7 +8682,7 @@
     },
     {
       "id": "SmithsonianChannelSelects.us@SD",
-      "name": "Smithsonian Channel Selects (United States)",
+      "name": "Smithsonian Channel Selects",
       "group": "Science",
       "user_agent": "",
       "referrer": "",
@@ -8880,7 +8799,7 @@
     },
     {
       "id": "StarTrekTheNextGeneration.us@SD",
-      "name": "Star Trek: The Next Generation (United States)",
+      "name": "Star Trek: The Next Generation",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -8889,7 +8808,7 @@
     },
     {
       "id": "StarTrekVoyager.us@SD",
-      "name": "Star Trek: Voyager (United States)",
+      "name": "Star Trek: Voyager",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -9168,7 +9087,7 @@
     },
     {
       "id": "TeenMom.us@SD",
-      "name": "Teen Mom (United States)",
+      "name": "Teen Mom",
       "group": "Documentary",
       "user_agent": "",
       "referrer": "",
@@ -9219,15 +9138,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8",
       "number": "1953"
-    },
-    {
-      "id": "TemeculaTV.us@SD",
-      "name": "Temecula TV (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8",
-      "number": "1955"
     },
     {
       "id": "Tempe11.us@SD",
@@ -9438,7 +9348,7 @@
     },
     {
       "id": "TheNewDetectives.us@US",
-      "name": "The New Detectives (United States)",
+      "name": "The New Detectives",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -9528,7 +9438,7 @@
     },
     {
       "id": "TheWildWildWest.us@SD",
-      "name": "The Wild Wild West (United States)",
+      "name": "The Wild Wild West",
       "group": "Movies;Series",
       "user_agent": "",
       "referrer": "",
@@ -9672,7 +9582,7 @@
     },
     {
       "id": "Tosh0.us@SD",
-      "name": "Tosh.0 (United States)",
+      "name": "Tosh.0",
       "group": "Series",
       "user_agent": "",
       "referrer": "",
@@ -9681,7 +9591,7 @@
     },
     {
       "id": "TotallyTurtles.us@US",
-      "name": "Totally Turtles (United States)",
+      "name": "Totally Turtles",
       "group": "Kids",
       "user_agent": "",
       "referrer": "",
@@ -9705,15 +9615,6 @@
       "referrer": "",
       "url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
       "number": "2016"
-    },
-    {
-      "id": "TrueCrimeNetwork.us@WCVBTV",
-      "name": "True Crime Network WCVB-TV (720p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8",
-      "number": "2017"
     },
     {
       "id": "TrueCrimeNow.us@SD",
@@ -10308,15 +10209,6 @@
       "referrer": "",
       "url": "https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8",
       "number": "2108"
-    },
-    {
-      "id": "WantedDeadorAlive.us@SD",
-      "name": "Wanted: Dead or Alive (720p)",
-      "group": "Classic",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8",
-      "number": "2109"
     },
     {
       "id": "WATCDT571.us@HD",
@@ -11091,15 +10983,6 @@
       "referrer": "",
       "url": "https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8",
       "number": "2220"
-    },
-    {
-      "id": "ReelzFamousInfamous.us@HD",
-      "name": "Reelz Famous & Infamous (1080p)",
-      "group": "Documentary",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
-      "number": "2221"
     }
   ]
 }
