@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-21T10:20:43.049501+00:00",
+  "generated_at": "2026-11-22T10:20:57.721902+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -813,15 +813,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8",
       "number": "117"
-    },
-    {
-      "id": "Gagsnetwork.us@SD",
-      "name": "Gagsnetwork (576p)",
-      "group": "Comedy",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://stream.mcquack.net/458/index.m3u8",
-      "number": "118"
     },
     {
       "id": "JustforLaughsGags.us@SD",
@@ -7347,15 +7338,6 @@
       "referrer": "",
       "url": "http://107.167.16.138/nickjr/index.m3u8?token=test",
       "number": "1707"
-    },
-    {
-      "id": "NickJrPlutoTV.us@US",
-      "name": "Nick Jr. Pluto TV (720p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
-      "number": "1708"
     },
     {
       "id": "Nickelodeonenespanol.us@SD",
