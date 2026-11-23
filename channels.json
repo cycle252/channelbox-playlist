@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T10:20:57.721902+00:00",
+  "generated_at": "2026-11-23T10:20:56.642234+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -444,15 +444,6 @@
       "referrer": "",
       "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
       "number": "52"
-    },
-    {
-      "id": "IFC.us@East",
-      "name": "IFC (1080p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
-      "number": "53"
     },
     {
       "id": "Movies.us@KPVMLD",
@@ -914,15 +905,6 @@
       "number": "131"
     },
     {
-      "id": "StarzComedy.us@East",
-      "name": "Starz Comedy (1080p)",
-      "group": "Comedy",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8",
-      "number": "132"
-    },
-    {
       "id": "TVLandSitcoms.us@SD",
       "name": "TV Land Sitcoms",
       "group": "Comedy",
@@ -1076,15 +1058,6 @@
       "number": "156"
     },
     {
-      "id": "Buzzr.us@SD",
-      "name": "Buzzr (1080p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
-      "number": "157"
-    },
-    {
       "id": "CanelaTV.us@SD",
       "name": "Canela TV (1080p)",
       "group": "Entertainment",
@@ -1148,15 +1121,6 @@
       "number": "165"
     },
     {
-      "id": "CrimePlusInvestigation.us@SD",
-      "name": "Crime + Investigation (720p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
-      "number": "166"
-    },
-    {
       "id": "CSIMiamienespanol.us@SD",
       "name": "CSI: Miami en espanol",
       "group": "Entertainment",
@@ -1202,15 +1166,6 @@
       "number": "171"
     },
     {
-      "id": "E.us@East",
-      "name": "E! (United States) East (1080p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_E/index.m3u8",
-      "number": "172"
-    },
-    {
       "id": "ElectricNow.us@SD",
       "name": "Electric Now (720p)",
       "group": "Entertainment",
@@ -1227,15 +1182,6 @@
       "referrer": "",
       "url": "https://estrellatv-oando.amagi.tv/playlist.m3u8",
       "number": "176"
-    },
-    {
-      "id": "Fuse.us@East",
-      "name": "Fuse (1080p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
-      "number": "180"
     },
     {
       "id": "GalxyTV.us@SD",
@@ -1425,15 +1371,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8",
       "number": "217"
-    },
-    {
-      "id": "MTV.us@East",
-      "name": "MTV (United States) (1080p)",
-      "group": "Entertainment",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
-      "number": "218"
     },
     {
       "id": "MTVenEspanol.us@SD",
@@ -2282,15 +2219,6 @@
       "number": "375"
     },
     {
-      "id": "OneAmericaNewsNetwork.us@SD",
-      "name": "One America News Network (720p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_OAN/index.m3u8",
-      "number": "402"
-    },
-    {
       "id": "NOST.us@SD",
       "name": "NOST (720p)",
       "group": "Movies",
@@ -2316,15 +2244,6 @@
       "referrer": "",
       "url": "https://linear-1208.frequency.stream/mt/vizio/1208/hls/master/playlist.m3u8",
       "number": "408"
-    },
-    {
-      "id": "CinemaxHits.us@East",
-      "name": "Cinemax Hits (1080p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
-      "number": "410"
     },
     {
       "id": "GameShowNetwork.us@East",
@@ -2715,7 +2634,7 @@
     },
     {
       "id": "Access4PAC.us@SD",
-      "name": "Access 4 PAC",
+      "name": "Access 4 PAC (480p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -3002,15 +2921,6 @@
       "number": "1086"
     },
     {
-      "id": "AmericanHeroesChannel.us@SD",
-      "name": "American Heroes Channel (720p)",
-      "group": "Documentary",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
-      "number": "1087"
-    },
-    {
       "id": "Ameritrade.us@SD",
       "name": "Ameritrade (1080p) [Not 24/7]",
       "group": "Business",
@@ -3063,15 +2973,6 @@
       "referrer": "",
       "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
       "number": "1093"
-    },
-    {
-      "id": "AnimalPlanet.us@East",
-      "name": "Animal Planet (United States) (720p)",
-      "group": "Documentary",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
-      "number": "1094"
     },
     {
       "id": "AntiquesRoadTrip.us@SD",
@@ -3516,7 +3417,7 @@
     },
     {
       "id": "BIGCivicChannel.us@SD",
-      "name": "BIG Civic Channel",
+      "name": "BIG Civic Channel (1080p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -3525,21 +3426,12 @@
     },
     {
       "id": "BIGCommunityChannel.us@SD",
-      "name": "BIG Community Channel",
+      "name": "BIG Community Channel (1080p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
       "url": "https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/stream-1/live.m3u8",
       "number": "1155"
-    },
-    {
-      "id": "BigTenNetwork.us@SD",
-      "name": "Big Ten Network (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
-      "number": "1156"
     },
     {
       "id": "BilliardTV.us@SD",
@@ -3596,15 +3488,6 @@
       "number": "1162"
     },
     {
-      "id": "BloombergTV.us@US",
-      "name": "Bloomberg TV (1080p)",
-      "group": "Business",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
-      "number": "1163"
-    },
-    {
       "id": "BloombergTV.us@LiveEvent",
       "name": "Bloomberg TV Live Event (720p)",
       "group": "Business",
@@ -3657,24 +3540,6 @@
       "referrer": "",
       "url": "https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8",
       "number": "1169"
-    },
-    {
-      "id": "Boomerang.us@SD",
-      "name": "Boomerang (United States) (720p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
-      "number": "1170"
-    },
-    {
-      "id": "Bounce.us@SD",
-      "name": "Bounce (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
-      "number": "1171"
     },
     {
       "id": "BPTV.us@SD",
@@ -3867,7 +3732,7 @@
     },
     {
       "id": "CapitalCityConnectionMontgomery.us@SD",
-      "name": "Capital City Connection Montgomery [Not 24/7]",
+      "name": "Capital City Connection Montgomery (1080p) [Not 24/7]",
       "group": "Legislative",
       "user_agent": "",
       "referrer": "",
@@ -4092,7 +3957,7 @@
     },
     {
       "id": "Channel18GAC.us@SD",
-      "name": "Channel 18 GAC",
+      "name": "Channel 18 GAC (480p)",
       "group": "Legislative",
       "user_agent": "",
       "referrer": "",
@@ -4143,24 +4008,6 @@
       "referrer": "",
       "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
       "number": "1230"
-    },
-    {
-      "id": "Cinemax.us@West",
-      "name": "Cinemax (United States) West (720p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
-      "number": "1231"
-    },
-    {
-      "id": "CinemaxClassics.us@East",
-      "name": "Cinemax Classics (1080p)",
-      "group": "Movies",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
-      "number": "1232"
     },
     {
       "id": "CinePride.us@SD",
@@ -4379,15 +4226,6 @@
       "number": "1260"
     },
     {
-      "id": "CMT.us@East",
-      "name": "CMT (720p)",
-      "group": "Music",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
-      "number": "1261"
-    },
-    {
       "id": "CMTEqualPlay.us@SD",
       "name": "CMT Equal Play (720p)",
       "group": "Music",
@@ -4469,15 +4307,6 @@
       "number": "1275"
     },
     {
-      "id": "CookingChannel.us@SD",
-      "name": "Cooking Channel (720p)",
-      "group": "Cooking",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
-      "number": "1277"
-    },
-    {
       "id": "CookingPanda.us@SD",
       "name": "Cooking Panda (576p)",
       "group": "Cooking",
@@ -4497,7 +4326,7 @@
     },
     {
       "id": "COStv.us@SD",
-      "name": "COStv",
+      "name": "COStv (1080p)",
       "group": "Legislative",
       "user_agent": "",
       "referrer": "",
@@ -4829,15 +4658,6 @@
       "number": "1324"
     },
     {
-      "id": "DestinationAmerica.us@SD",
-      "name": "Destination America (720p)",
-      "group": "Travel",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
-      "number": "1325"
-    },
-    {
       "id": "DetroitChannel10.us@SD",
       "name": "Detroit Channel 10",
       "group": "Legislative",
@@ -4848,7 +4668,7 @@
     },
     {
       "id": "DetroitChannel21.us@SD",
-      "name": "Detroit Channel 21",
+      "name": "Detroit Channel 21 (720p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -5250,15 +5070,6 @@
       "referrer": "https://fnx.org/",
       "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8",
       "number": "1386"
-    },
-    {
-      "id": "FoodNetwork.us@East",
-      "name": "Food Network (United States) (720p)",
-      "group": "Cooking",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
-      "number": "1387"
     },
     {
       "id": "ForensicFiles.us@SD",
@@ -5772,15 +5583,6 @@
       "referrer": "",
       "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
       "number": "1472"
-    },
-    {
-      "id": "HLN.us@SD",
-      "name": "HLN (720p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
-      "number": "1474"
     },
     {
       "id": "HMIPROMZNEWS.us@SD",
@@ -6909,7 +6711,7 @@
     },
     {
       "id": "MonroeCommunityMediaEducationChannel.us@SD",
-      "name": "Monroe Community Media Education Channel",
+      "name": "Monroe Community Media Education Channel (1920p)",
       "group": "Education",
       "user_agent": "",
       "referrer": "",
@@ -6918,7 +6720,7 @@
     },
     {
       "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
-      "name": "Monroe Community Media Public Access Channel",
+      "name": "Monroe Community Media Public Access Channel (1920p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -6936,7 +6738,7 @@
     },
     {
       "id": "MontgomeryChannel.us@SD",
-      "name": "Montgomery Channel",
+      "name": "Montgomery Channel (1080p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -7104,15 +6906,6 @@
       "referrer": "",
       "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
       "number": "1661"
-    },
-    {
-      "id": "NBATV.us@SD",
-      "name": "NBA TV (720p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
-      "number": "1664"
     },
     {
       "id": "NBC.us@KNTV",
@@ -7529,15 +7322,6 @@
       "number": "1731"
     },
     {
-      "id": "OutdoorChannel.us@HD",
-      "name": "Outdoor Channel HD (720p)",
-      "group": "Outdoor",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
-      "number": "1732"
-    },
-    {
       "id": "OuterSphere.us@SD",
       "name": "OuterSphere (1080p)",
       "group": "Movies;Series",
@@ -7565,15 +7349,6 @@
       "number": "1736"
     },
     {
-      "id": "OWN.us@East",
-      "name": "OWN (720p)",
-      "group": "Lifestyle",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_OWN/index.m3u8",
-      "number": "1737"
-    },
-    {
       "id": "Pac12Insider.us@SD",
       "name": "Pac-12 Insider (1080p)",
       "group": "Sports",
@@ -7599,15 +7374,6 @@
       "referrer": "",
       "url": "https://live.feed.thepalmbeaches.tv/index.m3u8",
       "number": "1740"
-    },
-    {
-      "id": "ParamountNetwork.us@East",
-      "name": "Paramount Network (United States) (1080p)",
-      "group": "Movies;Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
-      "number": "1741"
     },
     {
       "id": "ParsTV.us@SD",
@@ -8150,15 +7916,6 @@
       "number": "1809"
     },
     {
-      "id": "PursuitChannel.us@SD",
-      "name": "Pursuit Channel (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8",
-      "number": "1811"
-    },
-    {
       "id": "PursuitUP.us@SD",
       "name": "PursuitUP (1080p)",
       "group": "Outdoor",
@@ -8337,15 +8094,6 @@
       "referrer": "",
       "url": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
       "number": "1838"
-    },
-    {
-      "id": "Revolt.us@SD",
-      "name": "Revolt (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_REVOLT/index.m3u8",
-      "number": "1839"
     },
     {
       "id": "Revry.us@SD",
@@ -8544,33 +8292,6 @@
       "referrer": "",
       "url": "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8",
       "number": "1872"
-    },
-    {
-      "id": "SECNetwork.us@SD",
-      "name": "SEC Network (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
-      "number": "1873"
-    },
-    {
-      "id": "SFGovTV2.us@SD",
-      "name": "SFGovTV2 (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_050/playlist.m3u8",
-      "number": "1877"
-    },
-    {
-      "id": "SFGovTV.us@SD",
-      "name": "SFGovTV (720p)",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8",
-      "number": "1878"
     },
     {
       "id": "SGTN49.us@SD",
@@ -8798,24 +8519,6 @@
       "number": "1907"
     },
     {
-      "id": "Starz.us@West",
-      "name": "Starz West (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8",
-      "number": "1908"
-    },
-    {
-      "id": "StarzKidsFamily.us@East",
-      "name": "Starz Kids & Family (1080p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
-      "number": "1910"
-    },
-    {
       "id": "StingrayGreatestHolidayHits.us@SD",
       "name": "Stingray Greatest Holiday Hits",
       "group": "Music",
@@ -8922,15 +8625,6 @@
       "referrer": "",
       "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
       "number": "1923"
-    },
-    {
-      "id": "SYFY.us@East",
-      "name": "SYFY (720p)",
-      "group": "Movies;Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
-      "number": "1924"
     },
     {
       "id": "TAPTVChannel23.us@SD",
@@ -9617,15 +9311,6 @@
       "number": "2019"
     },
     {
-      "id": "truTV.us@East",
-      "name": "truTV (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_TRUTV/index.m3u8",
-      "number": "2020"
-    },
-    {
       "id": "truTV.us@West",
       "name": "truTV West (720p) [Geo-blocked]",
       "group": "Undefined",
@@ -10121,24 +9806,6 @@
       "number": "2099"
     },
     {
-      "id": "VH1.us@East",
-      "name": "VH1 (1080p)",
-      "group": "Music",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_VH1/index.m3u8",
-      "number": "2100"
-    },
-    {
-      "id": "VICETV.us@SD",
-      "name": "VICE TV (1080p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
-      "number": "2101"
-    },
-    {
       "id": "VidaMejorTV.us@SD",
       "name": "Vida Mejor TV (480p)",
       "group": "Religious",
@@ -10256,15 +9923,6 @@
       "number": "2116"
     },
     {
-      "id": "WeTV.us@East",
-      "name": "We TV (1080p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
-      "number": "2117"
-    },
-    {
       "id": "WeatherNation.us@SD",
       "name": "WeatherNation (1080p)",
       "group": "Weather",
@@ -10281,15 +9939,6 @@
       "referrer": "",
       "url": "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8",
       "number": "2119"
-    },
-    {
-      "id": "WeedsNurseJackie.us@SD",
-      "name": "Weeds & Nurse Jackie (720p)",
-      "group": "Series",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8",
-      "number": "2120"
     },
     {
       "id": "WeHoTV.us@SD",
@@ -10571,15 +10220,6 @@
       "number": "2155"
     },
     {
-      "id": "YesNetwork.us@SD",
-      "name": "Yes Network (720p)",
-      "group": "Undefined",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
-      "number": "2156"
-    },
-    {
       "id": "YoMTV.us@SD",
       "name": "Yo! MTV (1080p)",
       "group": "Music",
@@ -10653,7 +10293,7 @@
     },
     {
       "id": "WillametteFallsMediaCenter.us@SD",
-      "name": "Willamette Falls Media Center",
+      "name": "Willamette Falls Media Center (1080p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
