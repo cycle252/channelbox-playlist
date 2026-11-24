@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T10:20:56.642234+00:00",
+  "generated_at": "2026-11-24T10:19:56.737757+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1689,11 +1689,11 @@
     },
     {
       "id": "ABC.us@WFTV",
-      "name": "ABC WFTV (720p)",
+      "name": "ABC WFTV (1080p) [Geo-blocked]",
       "group": "General",
       "user_agent": "",
       "referrer": "",
-      "url": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8",
+      "url": "https://amg00327-coxmediagroup-wftvbreakingnews-vizious-bfgi2.amagi.tv/ts-eu-w1-n2/playlist/amg00327-coxmediagroup-wftvbreakingnews-vizious/playlist.m3u8",
       "number": "276"
     },
     {
@@ -1904,15 +1904,6 @@
       "number": "330"
     },
     {
-      "id": "News12PlusHudsonValley.us@HD",
-      "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
-      "number": "331"
-    },
-    {
       "id": "News12PlusLongIsland.us@HD",
       "name": "News12+ Long Island (1080p) [Geo-blocked]",
       "group": "News",
@@ -1959,7 +1950,7 @@
     },
     {
       "id": "News12Conneticut.us@SD",
-      "name": "News12 Conneticut [Geo-blocked]",
+      "name": "News12 Conneticut (1080p) [Geo-blocked]",
       "group": "News",
       "user_agent": "",
       "referrer": "",
@@ -2643,7 +2634,7 @@
     },
     {
       "id": "Access19.us@SD",
-      "name": "Access 19",
+      "name": "Access 19 (1080p)",
       "group": "General",
       "user_agent": "",
       "referrer": "",
@@ -4038,7 +4029,7 @@
     },
     {
       "id": "CityofMonroeGovernmentChannel.us@SD",
-      "name": "City of Monroe Government Channel",
+      "name": "City of Monroe Government Channel (1280p)",
       "group": "Legislative",
       "user_agent": "",
       "referrer": "",
@@ -4656,15 +4647,6 @@
       "referrer": "",
       "url": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8",
       "number": "1324"
-    },
-    {
-      "id": "DetroitChannel10.us@SD",
-      "name": "Detroit Channel 10",
-      "group": "Legislative",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8",
-      "number": "1326"
     },
     {
       "id": "DetroitChannel21.us@SD",
@@ -8364,15 +8346,6 @@
       "referrer": "",
       "url": "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
       "number": "1890"
-    },
-    {
-      "id": "SMCTVChannel24.us@SD",
-      "name": "SMCTV Channel 24 (720p)",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-      "number": "1891"
     },
     {
       "id": "SMCTVChannel25.us@SD",
