@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T10:24:00.403421+00:00",
+  "generated_at": "2026-11-27T10:24:50.724191+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -1913,15 +1913,6 @@
       "number": "313"
     },
     {
-      "id": "FoxNewsChannel.us@SD",
-      "name": "Fox News Channel (1080p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
-      "number": "314"
-    },
-    {
       "id": "FoxNewsRadio.us@SD",
       "name": "Fox News Radio (720p)",
       "group": "News",
@@ -2739,15 +2730,6 @@
       "referrer": "",
       "url": "https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-16/live/stream-4/live.m3u8",
       "number": "1050"
-    },
-    {
-      "id": "Access19.us@SD",
-      "name": "Access 19 (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8",
-      "number": "1051"
     },
     {
       "id": "AccessNashua.us@SD",
@@ -5504,15 +5486,6 @@
       "number": "1411"
     },
     {
-      "id": "FoxBusinessNetwork.us@SD",
-      "name": "Fox Business Network (576p)",
-      "group": "Business",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/foxbusiness/index.m3u8",
-      "number": "1412"
-    },
-    {
       "id": "FoxDeportes.us@SD",
       "name": "Fox Deportes (720p)",
       "group": "Sports",
@@ -5844,15 +5817,6 @@
       "referrer": "",
       "url": "https://reflect-huntingtonbeach.cablecast.tv/live-4/live/stream-1/live.m3u8",
       "number": "1464"
-    },
-    {
-      "id": "HCTVEducationalAccessChannel.us@SD",
-      "name": "HCTV Educational Access Channel",
-      "group": "Education",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8",
-      "number": "1465"
     },
     {
       "id": "HCTVPublicAccessChannel.us@SD",
@@ -6258,15 +6222,6 @@
       "referrer": "",
       "url": "https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8",
       "number": "1520"
-    },
-    {
-      "id": "KaloopyTV.us@SD",
-      "name": "Kaloopy TV (1080p)",
-      "group": "Lifestyle",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8",
-      "number": "1521"
     },
     {
       "id": "KartoonChannel.us@SD",
@@ -7682,15 +7637,6 @@
       "number": "1730"
     },
     {
-      "id": "OutdoorChannel.us@SD",
-      "name": "Outdoor Channel (1080p)",
-      "group": "Outdoor",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8",
-      "number": "1731"
-    },
-    {
       "id": "OutdoorChannel.us@HD",
       "name": "Outdoor Channel HD (720p)",
       "group": "Outdoor",
@@ -8760,15 +8706,6 @@
       "referrer": "",
       "url": "https://rpn.bozztv.com/gusa/gusa-stgn/index.m3u8",
       "number": "1879"
-    },
-    {
-      "id": "ShalomAmerica.us@SD",
-      "name": "Shalom America (720p) [Not 24/7]",
-      "group": "Religious",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8",
-      "number": "1881"
     },
     {
       "id": "ShoutFactoryTV.us@SD",
@@ -9887,15 +9824,6 @@
       "number": "2027"
     },
     {
-      "id": "TVPanou.ht@SD",
-      "name": "TV Panou (720p) [Not 24/7]",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
-      "number": "2028"
-    },
-    {
       "id": "TVQuisqueya.us@SD",
       "name": "TV Quisqueya (720p)",
       "group": "General",
@@ -10859,15 +10787,6 @@
       "number": "2170"
     },
     {
-      "id": "MSNOW.us@SD",
-      "name": "MS NOW (432p)",
-      "group": "News",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8",
-      "number": "2171"
-    },
-    {
       "id": "WillametteFallsMediaCenter.us@SD",
       "name": "Willamette Falls Media Center (1080p)",
       "group": "General",
@@ -11057,15 +10976,6 @@
       "number": "2198"
     },
     {
-      "id": "beINSportsUSA.us@SD",
-      "name": "beIN Sports USA (576p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
-      "number": "2200"
-    },
-    {
       "id": "InTouchPlus.us@HD",
       "name": "InTouch+ (1080p) [Geo-blocked]",
       "group": "Religious",
@@ -11091,15 +11001,6 @@
       "referrer": "",
       "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
       "number": "2203"
-    },
-    {
-      "id": "GolfChannel.us@SD",
-      "name": "Golf Channel (United States) (576p)",
-      "group": "Sports",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
-      "number": "2205"
     },
     {
       "id": "MarqueeSportsNetwork.us@SD",
