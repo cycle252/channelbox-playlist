@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T10:24:50.724191+00:00",
+  "generated_at": "2026-11-28T10:26:46.196759+00:00",
   "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
   "channels": [
     {
@@ -2741,15 +2741,6 @@
       "number": "1053"
     },
     {
-      "id": "AccessTuolumne.us@SD",
-      "name": "Access Tuolumne (720p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-tuolumne.cablecast.tv/live-3/live/stream-1/live.m3u8",
-      "number": "1055"
-    },
-    {
       "id": "AccessVisionChannel16.us@SD",
       "name": "AccessVision Channel 16 (720p)",
       "group": "General",
@@ -3270,15 +3261,6 @@
       "referrer": "",
       "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8",
       "number": "1118"
-    },
-    {
-      "id": "AXSTV.us@SD",
-      "name": "AXS TV (576p)",
-      "group": "Music",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
-      "number": "1119"
     },
     {
       "id": "BabySharkTV.us@SD",
@@ -4690,7 +4672,7 @@
       "group": "Documentary",
       "user_agent": "",
       "referrer": "",
-      "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+      "url": "https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8",
       "number": "1302"
     },
     {
@@ -5216,15 +5198,6 @@
       "number": "1373"
     },
     {
-      "id": "FCPublicMedia.us@SD",
-      "name": "FC Public Media (1080p)",
-      "group": "General",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://reflect-fcpublicmedia.cablecast.tv/live-5/live/stream-1/live.m3u8",
-      "number": "1374"
-    },
-    {
       "id": "FCTV.us@SD",
       "name": "FCTV (1080p)",
       "group": "General",
@@ -5628,15 +5601,6 @@
       "referrer": "",
       "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8",
       "number": "1431"
-    },
-    {
-      "id": "GiggleMug.us@SD",
-      "name": "Giggle Mug (576p)",
-      "group": "Kids",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8",
-      "number": "1432"
     },
     {
       "id": "Glendale11AZ.us@SD",
@@ -7125,7 +7089,7 @@
     },
     {
       "id": "MTVLive.us@SD",
-      "name": "MTV Live (720p)",
+      "name": "MTV Live (1080p)",
       "group": "Music",
       "user_agent": "",
       "referrer": "",
@@ -11667,15 +11631,6 @@
       "referrer": "",
       "url": "https://live.gideo.video/americateve2/master.m3u8",
       "number": "2287"
-    },
-    {
-      "id": "Freeform.us@East",
-      "name": "Freeform (720p)",
-      "group": "Family",
-      "user_agent": "",
-      "referrer": "",
-      "url": "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9",
-      "number": "2288"
     }
   ]
 }
